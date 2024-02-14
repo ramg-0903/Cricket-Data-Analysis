@@ -1,0 +1,67 @@
+1) Wicket-Keeper - Since a Wicket-keeper is mandatory for every team , we first pick the keeper and finalise his spot and then choose the others accordingly.
+
+Filters - 
+
+Role (should be a wicket-keeper)
+Innings Batted >= 7
+
+
+
+2) Opener's (1,2) are characterised by a very high Batting Average. The amount of balls faced and the time spent on the crease is sky high as well.
+
+Filters - 
+
+Average >= 50
+Innings batted >=8
+Batting Position (1,2) 
+
+
+
+3) Middle Order(3,4,5) is extremely crucial as they act as the shoulders for the innings.
+Here Batting Average and Strike Rate are important as well similiar to the top-order.
+
+
+Filters - 
+
+Average >= 45
+Strike Rate >=90
+Innings batted >=8
+Batting Position (3,4,5,6) 
+
+
+
+4) Batting All-Rounder's (6) have extremely high hitting power while also being trained with the ball. This means that they are characterised by a high strike rate and boundary percentage while also keeping in mind their bowling stats.
+
+Filters - 
+
+Average >= 35
+Innings batted >=7
+Innings Bowled >=4
+Batting Position (5,6,7)
+
+
+
+5) Bowling All-Rounder's (7) will have to be the fifth bowler and hence have to be consistent with the bowl while also being fluent with the bat. This means that they should have a low economy and high number of wickets while also keeping their average and strike rate in mind. 
+
+Filters - 
+
+Economy <= 5.5
+Innings batted >=4
+Innings Bowled >=7
+Batting Position (6,7,8) 
+
+
+
+6) Bowlers (8,9,10,11) should have extremely good bowling stats. These include low economy , Dot-ball percentage and high number of wickets.
+
+Filters - 
+
+Economy <= 5.5
+Wickets >= 15
+Innings Bowled >=7
+Batting Position (7,8,9,10,11) 
+
+
+
+
+

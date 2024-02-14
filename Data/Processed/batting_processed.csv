@@ -1,0 +1,853 @@
+Match,Team-Innings,Batting-Pos,Batsman,Dismissal,Runs,Balls,Minutes,4s,6s,SR,Match Number
+England vs New Zealand,England,10,Adil Rashid,not out,15,13,23,0,1,115.38,1
+England vs New Zealand,England,9,Chris Woakes,out,11,12,15,1,0,91.66,1
+England vs New Zealand,England,2,Dawid Malan,out,14,24,36,2,0,58.33,1
+England vs New Zealand,New Zealand,1,Devon Conway,not out,152,121,147,19,3,125.61,1
+England vs New Zealand,England,4,Harry Brook,out,25,16,20,4,1,156.25,1
+England vs New Zealand,England,3,Joe Root,out,77,86,140,4,1,89.53,1
+England vs New Zealand,England,1,Jonny Bairstow,out,33,35,57,4,1,94.28,1
+England vs New Zealand,England,6,Jos Buttler (c)†,out,43,42,48,2,2,102.38,1
+England vs New Zealand,England,7,Liam Livingstone,out,20,22,23,3,0,90.9,1
+England vs New Zealand,England,11,Mark Wood,not out,13,14,19,0,0,92.85,1
+England vs New Zealand,England,5,Moeen Ali,out,11,17,20,1,0,64.7,1
+England vs New Zealand,New Zealand,3,Rachin Ravindra,not out,123,96,141,11,5,128.12,1
+England vs New Zealand,England,8,Sam Curran,out,14,19,30,0,0,73.68,1
+England vs New Zealand,New Zealand,2,Will Young,out,0,1,5,0,0,0,1
+Pakistan vs Netherlands,Netherlands,10,Aryan Dutt,out,1,2,6,0,0,50,2
+Pakistan vs Netherlands,Pakistan,3,Babar Azam (c),out,5,18,20,0,0,27.77,2
+Pakistan vs Netherlands,Netherlands,4,Bas de Leede,out,67,68,92,6,2,98.52,2
+Pakistan vs Netherlands,Netherlands,3,Colin Ackermann,out,17,21,24,3,0,80.95,2
+Pakistan vs Netherlands,Pakistan,1,Fakhar Zaman,out,12,15,14,3,0,80,2
+Pakistan vs Netherlands,Pakistan,11,Haris Rauf,out,16,14,10,2,1,114.28,2
+Pakistan vs Netherlands,Pakistan,9,Hasan Ali,out,0,1,2,0,0,0,2
+Pakistan vs Netherlands,Pakistan,6,Iftikhar Ahmed,out,9,11,22,1,0,81.81,2
+Pakistan vs Netherlands,Pakistan,2,Imam-ul-Haq,out,15,19,40,2,0,78.94,2
+Pakistan vs Netherlands,Netherlands,9,Logan van Beek,not out,28,28,36,3,1,100,2
+Pakistan vs Netherlands,Netherlands,2,Max O'Dowd,out,5,12,24,1,0,41.66,2
+Pakistan vs Netherlands,Pakistan,7,Mohammad Nawaz,out,39,43,66,4,0,90.69,2
+Pakistan vs Netherlands,Pakistan,4,Mohammad Rizwan †,out,68,75,104,8,0,90.66,2
+Pakistan vs Netherlands,Netherlands,8,Roelof van der Merwe,out,4,7,18,0,0,57.14,2
+Pakistan vs Netherlands,Netherlands,7,Saqib Zulfiqar,out,10,18,24,1,0,55.55,2
+Pakistan vs Netherlands,Pakistan,5,Saud Shakeel,out,68,52,84,9,1,130.76,2
+Pakistan vs Netherlands,Netherlands,6,Scott Edwards (c)†,out,0,2,2,0,0,0,2
+Pakistan vs Netherlands,Pakistan,8,Shadab Khan,out,32,34,42,2,1,94.11,2
+Pakistan vs Netherlands,Pakistan,10,Shaheen Shah Afridi,not out,13,12,23,2,0,108.33,2
+Pakistan vs Netherlands,Netherlands,5,Teja Nidamanuru,out,5,9,10,1,0,55.55,2
+Pakistan vs Netherlands,Netherlands,1,Vikramjit Singh,out,52,67,97,4,1,77.61,2
+Afghanistan vs Bangladesh,Afghanistan,7,Azmatullah Omarzai,out,22,20,32,4,0,110,3
+Afghanistan vs Bangladesh,Afghanistan,11,Fazalhaq Farooqi,not out,0,3,3,0,0,0,3
+Afghanistan vs Bangladesh,Afghanistan,4,Hashmatullah Shahidi (c),out,18,38,34,2,0,47.36,3
+Afghanistan vs Bangladesh,Afghanistan,2,Ibrahim Zadran,out,22,25,41,3,1,88,3
+Afghanistan vs Bangladesh,Bangladesh,2,Litton Das,out,13,18,29,2,0,72.22,3
+Afghanistan vs Bangladesh,Bangladesh,3,Mehidy Hasan Miraz,out,57,73,89,5,0,78.08,3
+Afghanistan vs Bangladesh,Afghanistan,6,Mohammad Nabi,out,6,12,19,0,0,50,3
+Afghanistan vs Bangladesh,Afghanistan,9,Mujeeb Ur Rahman,out,1,4,9,0,0,25,3
+Afghanistan vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,not out,2,3,6,0,0,66.66,3
+Afghanistan vs Bangladesh,Afghanistan,5,Najibullah Zadran,out,5,13,16,0,0,38.46,3
+Afghanistan vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,not out,59,83,112,3,1,71.08,3
+Afghanistan vs Bangladesh,Afghanistan,10,Naveen-ul-Haq,out,0,6,8,0,0,0,3
+Afghanistan vs Bangladesh,Afghanistan,1,Rahmanullah Gurbaz †,out,47,62,112,4,1,75.8,3
+Afghanistan vs Bangladesh,Afghanistan,3,Rahmat Shah,out,18,25,30,1,0,72,3
+Afghanistan vs Bangladesh,Afghanistan,8,Rashid Khan,out,9,16,16,1,0,56.25,3
+Afghanistan vs Bangladesh,Bangladesh,5,Shakib Al Hasan (c),out,14,19,24,2,0,73.68,3
+Afghanistan vs Bangladesh,Bangladesh,1,Tanzid Hasan,out,5,13,19,1,0,38.46,3
+South Africa vs Sri Lanka,South Africa,4,Aiden Markram,out,106,54,84,14,3,196.29,4
+South Africa vs Sri Lanka,Sri Lanka,5,Charith Asalanka,out,79,65,83,8,4,121.53,4
+South Africa vs Sri Lanka,Sri Lanka,7,Dasun Shanaka (c),out,68,62,86,6,3,109.67,4
+South Africa vs Sri Lanka,South Africa,6,David Miller,not out,39,21,36,3,2,185.71,4
+South Africa vs Sri Lanka,Sri Lanka,6,Dhananjaya de Silva,out,11,14,28,1,0,78.57,4
+South Africa vs Sri Lanka,Sri Lanka,8,Dunith Wellalage,out,0,1,2,0,0,0,4
+South Africa vs Sri Lanka,South Africa,5,Heinrich Klaasen,out,32,20,30,1,3,160,4
+South Africa vs Sri Lanka,Sri Lanka,9,Kasun Rajitha,out,33,31,52,4,1,106.45,4
+South Africa vs Sri Lanka,Sri Lanka,3,Kusal Mendis †,out,76,42,55,4,8,180.95,4
+South Africa vs Sri Lanka,Sri Lanka,2,Kusal Perera,out,7,15,42,1,0,46.66,4
+South Africa vs Sri Lanka,South Africa,7,Marco Jansen,not out,12,7,15,0,1,171.42,4
+South Africa vs Sri Lanka,Sri Lanka,10,Matheesha Pathirana,out,5,16,25,1,0,31.25,4
+South Africa vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,0,3,6,0,0,0,4
+South Africa vs Sri Lanka,South Africa,1,Quinton de Kock †,out,100,84,140,12,3,119.04,4
+South Africa vs Sri Lanka,South Africa,3,Rassie van der Dussen,out,108,110,161,13,2,98.18,4
+South Africa vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,out,23,19,22,3,1,121.05,4
+South Africa vs Sri Lanka,South Africa,2,Temba Bavuma (c),out,8,5,9,2,0,160,4
+Australia vs India,Australia,10,Adam Zampa,out,6,20,28,0,0,30,5
+Australia vs India,Australia,6,Alex Carey †,out,0,2,1,0,0,0,5
+Australia vs India,Australia,7,Cameron Green,out,8,20,31,0,0,40,5
+Australia vs India,Australia,1,David Warner,out,41,52,76,6,0,78.84,5
+Australia vs India,Australia,5,Glenn Maxwell,out,15,25,44,1,0,60,5
+Australia vs India,India,6,Hardik Pandya,not out,11,8,17,0,1,137.5,5
+Australia vs India,India,2,Ishan Kishan,out,0,1,3,0,0,0,5
+Australia vs India,Australia,11,Josh Hazlewood,not out,1,1,6,0,0,100,5
+Australia vs India,India,5,KL Rahul †,not out,97,115,180,8,2,84.34,5
+Australia vs India,Australia,4,Marnus Labuschagne,out,27,41,58,1,0,65.85,5
+Australia vs India,Australia,2,Mitchell Marsh,out,0,6,11,0,0,0,5
+Australia vs India,Australia,9,Mitchell Starc,out,28,35,58,2,1,80,5
+Australia vs India,Australia,8,Pat Cummins (c),out,15,24,26,1,1,62.5,5
+Australia vs India,India,1,Rohit Sharma (c),out,0,6,10,0,0,0,5
+Australia vs India,India,4,Shreyas Iyer,out,0,3,2,0,0,0,5
+Australia vs India,Australia,3,Steven Smith,out,46,71,112,5,0,64.78,5
+Australia vs India,India,3,Virat Kohli,out,85,116,171,6,0,73.27,5
+New Zealand vs Netherlands,Netherlands,10,Aryan Dutt,out,11,20,19,0,1,55,6
+New Zealand vs Netherlands,Netherlands,4,Bas de Leede,out,18,25,21,3,0,72,6
+New Zealand vs Netherlands,Netherlands,3,Colin Ackermann,out,69,73,98,5,0,94.52,6
+New Zealand vs Netherlands,New Zealand,4,Daryl Mitchell,out,48,47,67,5,2,102.12,6
+New Zealand vs Netherlands,New Zealand,1,Devon Conway,out,32,40,51,5,1,80,6
+New Zealand vs Netherlands,New Zealand,6,Glenn Phillips,out,4,4,6,1,0,100,6
+New Zealand vs Netherlands,New Zealand,7,Mark Chapman,out,5,13,11,0,0,38.46,6
+New Zealand vs Netherlands,New Zealand,9,Matt Henry,not out,10,4,6,0,1,250,6
+New Zealand vs Netherlands,Netherlands,2,Max O'Dowd,out,16,31,40,2,0,51.61,6
+New Zealand vs Netherlands,New Zealand,8,Mitchell Santner,not out,36,17,25,3,2,211.76,6
+New Zealand vs Netherlands,New Zealand,3,Rachin Ravindra,out,51,51,87,3,1,100,6
+New Zealand vs Netherlands,Netherlands,8,Roelof van der Merwe,out,1,6,9,0,0,16.66,6
+New Zealand vs Netherlands,Netherlands,9,Ryan Klein,out,8,15,23,0,0,53.33,6
+New Zealand vs Netherlands,Netherlands,6,Scott Edwards (c)†,out,30,27,37,2,1,111.11,6
+New Zealand vs Netherlands,Netherlands,7,Sybrand Engelbrecht,out,29,34,55,3,0,85.29,6
+New Zealand vs Netherlands,Netherlands,5,Teja Nidamanuru,out,21,26,28,2,1,80.76,6
+New Zealand vs Netherlands,New Zealand,5,Tom Latham (c)†,out,53,46,72,6,1,115.21,6
+New Zealand vs Netherlands,Netherlands,1,Vikramjit Singh,out,12,20,22,1,0,60,6
+New Zealand vs Netherlands,New Zealand,2,Will Young,out,70,80,106,7,2,87.5,6
+England vs Bangladesh,England,9,Adil Rashid,out,11,7,8,1,0,157.14,7
+England vs Bangladesh,England,8,Chris Woakes,out,14,11,21,2,0,127.27,7
+England vs Bangladesh,England,2,Dawid Malan,out,140,107,106,16,5,130.84,7
+England vs Bangladesh,England,5,Harry Brook,out,20,15,23,3,0,133.33,7
+England vs Bangladesh,England,3,Joe Root,out,82,68,107,8,1,120.58,7
+England vs Bangladesh,England,1,Jonny Bairstow,out,52,59,80,8,0,88.13,7
+England vs Bangladesh,England,4,Jos Buttler (c)†,out,20,10,11,1,1,200,7
+England vs Bangladesh,England,6,Liam Livingstone,out,0,1,1,0,0,0,7
+England vs Bangladesh,Bangladesh,1,Litton Das,out,76,66,99,7,2,115.15,7
+England vs Bangladesh,Bangladesh,8,Mahedi Hasan,out,14,32,39,1,0,43.75,7
+England vs Bangladesh,England,10,Mark Wood,not out,6,5,6,1,0,120,7
+England vs Bangladesh,Bangladesh,5,Mehidy Hasan Miraz,out,8,7,12,1,0,114.28,7
+England vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,out,51,64,93,4,0,79.68,7
+England vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,out,0,1,1,0,0,0,7
+England vs Bangladesh,England,11,Reece Topley,not out,1,2,2,0,0,50,7
+England vs Bangladesh,England,7,Sam Curran,out,11,15,20,1,0,73.33,7
+England vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),out,1,9,16,0,0,11.11,7
+England vs Bangladesh,Bangladesh,10,Shoriful Islam,out,12,14,17,2,0,85.71,7
+England vs Bangladesh,Bangladesh,2,Tanzid Hasan,out,1,2,7,0,0,50,7
+England vs Bangladesh,Bangladesh,9,Taskin Ahmed,out,15,25,35,0,1,60,7
+England vs Bangladesh,Bangladesh,7,Towhid Hridoy,out,39,61,70,2,0,63.93,7
+Sri Lanka vs Pakistan,Pakistan,1,Abdullah Shafique,out,113,103,150,10,3,109.7,8
+Sri Lanka vs Pakistan,Pakistan,3,Babar Azam (c),out,10,15,17,1,0,66.66,8
+Sri Lanka vs Pakistan,Sri Lanka,5,Charith Asalanka,out,1,3,5,0,0,33.33,8
+Sri Lanka vs Pakistan,Sri Lanka,7,Dasun Shanaka (c),out,12,18,23,0,0,66.66,8
+Sri Lanka vs Pakistan,Sri Lanka,6,Dhananjaya de Silva,out,25,34,47,3,0,73.52,8
+Sri Lanka vs Pakistan,Sri Lanka,8,Dunith Wellalage,out,10,8,18,1,0,125,8
+Sri Lanka vs Pakistan,Pakistan,6,Iftikhar Ahmed,not out,22,10,18,4,0,220,8
+Sri Lanka vs Pakistan,Pakistan,2,Imam-ul-Haq,out,12,12,15,1,0,100,8
+Sri Lanka vs Pakistan,Sri Lanka,3,Kusal Mendis †,out,122,77,124,14,6,158.44,8
+Sri Lanka vs Pakistan,Sri Lanka,2,Kusal Perera,out,0,4,7,0,0,0,8
+Sri Lanka vs Pakistan,Sri Lanka,9,Maheesh Theekshana,out,0,4,6,0,0,0,8
+Sri Lanka vs Pakistan,Sri Lanka,10,Matheesha Pathirana,not out,1,3,3,0,0,33.33,8
+Sri Lanka vs Pakistan,Pakistan,4,Mohammad Rizwan †,not out,131,121,193,8,3,108.26,8
+Sri Lanka vs Pakistan,Sri Lanka,1,Pathum Nissanka,out,51,61,79,7,1,83.6,8
+Sri Lanka vs Pakistan,Sri Lanka,4,Sadeera Samarawickrama,out,108,89,139,11,2,121.34,8
+Sri Lanka vs Pakistan,Pakistan,5,Saud Shakeel,out,31,30,57,2,0,103.33,8
+Afghanistan vs India,Afghanistan,5,Azmatullah Omarzai,out,62,69,82,2,4,89.85,9
+Afghanistan vs India,Afghanistan,4,Hashmatullah Shahidi (c),out,80,88,128,8,1,90.9,9
+Afghanistan vs India,Afghanistan,2,Ibrahim Zadran,out,22,28,31,4,0,78.57,9
+Afghanistan vs India,India,2,Ishan Kishan,out,47,47,78,5,2,100,9
+Afghanistan vs India,Afghanistan,6,Mohammad Nabi,out,19,27,52,1,0,70.37,9
+Afghanistan vs India,Afghanistan,9,Mujeeb Ur Rahman,not out,10,12,22,2,0,83.33,9
+Afghanistan vs India,Afghanistan,7,Najibullah Zadran,out,2,8,6,0,0,25,9
+Afghanistan vs India,Afghanistan,10,Naveen-ul-Haq,not out,9,8,8,1,0,112.5,9
+Afghanistan vs India,Afghanistan,1,Rahmanullah Gurbaz †,out,21,28,65,3,1,75,9
+Afghanistan vs India,Afghanistan,3,Rahmat Shah,out,16,22,37,3,0,72.72,9
+Afghanistan vs India,Afghanistan,8,Rashid Khan,out,16,12,18,1,1,133.33,9
+Afghanistan vs India,India,1,Rohit Sharma (c),out,131,84,111,16,5,155.95,9
+Afghanistan vs India,India,4,Shreyas Iyer,not out,25,23,31,1,1,108.69,9
+Afghanistan vs India,India,3,Virat Kohli,not out,55,56,64,6,0,98.21,9
+South Africa vs Australia,Australia,10,Adam Zampa,not out,11,16,25,1,0,68.75,10
+South Africa vs Australia,South Africa,4,Aiden Markram,out,56,44,61,7,1,127.27,10
+South Africa vs Australia,South Africa,6,David Miller,out,17,13,35,1,1,130.76,10
+South Africa vs Australia,Australia,2,David Warner,out,13,27,33,2,0,48.14,10
+South Africa vs Australia,Australia,6,Glenn Maxwell,out,3,17,17,0,0,17.64,10
+South Africa vs Australia,South Africa,5,Heinrich Klaasen,out,29,27,40,3,0,107.4,10
+South Africa vs Australia,Australia,5,Josh Inglis †,out,5,4,5,1,0,125,10
+South Africa vs Australia,South Africa,8,Kagiso Rabada,not out,0,1,4,0,0,0,10
+South Africa vs Australia,South Africa,9,Keshav Maharaj,not out,0,2,1,0,0,0,10
+South Africa vs Australia,South Africa,7,Marco Jansen,out,26,22,25,3,1,118.18,10
+South Africa vs Australia,Australia,7,Marcus Stoinis,out,5,4,6,1,0,125,10
+South Africa vs Australia,Australia,4,Marnus Labuschagne,out,46,74,125,3,0,62.16,10
+South Africa vs Australia,Australia,1,Mitchell Marsh,out,7,15,27,0,0,46.66,10
+South Africa vs Australia,Australia,8,Mitchell Starc,out,27,51,69,3,0,52.94,10
+South Africa vs Australia,Australia,9,Pat Cummins (c),out,22,21,29,4,0,104.76,10
+South Africa vs Australia,South Africa,1,Quinton de Kock †,out,109,106,147,8,5,102.83,10
+South Africa vs Australia,South Africa,3,Rassie van der Dussen,out,26,30,33,2,0,86.66,10
+South Africa vs Australia,Australia,3,Steven Smith,out,19,16,20,4,0,118.75,10
+South Africa vs Australia,South Africa,2,Temba Bavuma (c),out,35,55,84,2,0,63.63,10
+Bangladesh vs New Zealand,New Zealand,4,Daryl Mitchell,not out,89,67,103,6,4,132.83,11
+Bangladesh vs New Zealand,New Zealand,1,Devon Conway,out,45,59,91,3,0,76.27,11
+Bangladesh vs New Zealand,New Zealand,5,Glenn Phillips,not out,16,11,22,1,1,145.45,11
+Bangladesh vs New Zealand,New Zealand,3,Kane Williamson (c),out,78,107,158,8,1,72.89,11
+Bangladesh vs New Zealand,Bangladesh,1,Litton Das,out,0,1,1,0,0,0,11
+Bangladesh vs New Zealand,Bangladesh,8,Mahmudullah,not out,41,49,58,2,2,83.67,11
+Bangladesh vs New Zealand,Bangladesh,3,Mehidy Hasan Miraz,out,30,46,52,4,0,65.21,11
+Bangladesh vs New Zealand,Bangladesh,6,Mushfiqur Rahim †,out,66,75,93,6,2,88,11
+Bangladesh vs New Zealand,Bangladesh,10,Mustafizur Rahman,out,4,10,14,0,0,40,11
+Bangladesh vs New Zealand,Bangladesh,4,Najmul Hossain Shanto,out,7,8,20,1,0,87.5,11
+Bangladesh vs New Zealand,New Zealand,2,Rachin Ravindra,out,9,13,12,2,0,69.23,11
+Bangladesh vs New Zealand,Bangladesh,5,Shakib Al Hasan (c),out,40,51,75,3,2,78.43,11
+Bangladesh vs New Zealand,Bangladesh,11,Shoriful Islam,not out,2,3,9,0,0,66.66,11
+Bangladesh vs New Zealand,Bangladesh,2,Tanzid Hasan,out,16,17,37,4,0,94.11,11
+Bangladesh vs New Zealand,Bangladesh,9,Taskin Ahmed,out,17,19,25,0,2,89.47,11
+Bangladesh vs New Zealand,Bangladesh,7,Towhid Hridoy,out,13,25,30,0,0,52,11
+Pakistan vs India,Pakistan,1,Abdullah Shafique,out,20,24,39,3,0,83.33,12
+Pakistan vs India,Pakistan,3,Babar Azam (c),out,50,58,89,7,0,86.2,12
+Pakistan vs India,Pakistan,11,Haris Rauf,out,2,6,9,0,0,33.33,12
+Pakistan vs India,Pakistan,9,Hasan Ali,out,12,19,21,2,0,63.15,12
+Pakistan vs India,Pakistan,6,Iftikhar Ahmed,out,4,4,2,1,0,100,12
+Pakistan vs India,Pakistan,2,Imam-ul-Haq,out,36,38,64,6,0,94.73,12
+Pakistan vs India,India,5,KL Rahul †,not out,19,29,33,2,0,65.51,12
+Pakistan vs India,Pakistan,8,Mohammad Nawaz,out,4,14,25,0,0,28.57,12
+Pakistan vs India,Pakistan,4,Mohammad Rizwan †,out,49,69,89,7,0,71.01,12
+Pakistan vs India,India,1,Rohit Sharma (c),out,86,63,91,6,6,136.5,12
+Pakistan vs India,Pakistan,5,Saud Shakeel,out,6,10,12,0,0,60,12
+Pakistan vs India,Pakistan,7,Shadab Khan,out,2,5,11,0,0,40,12
+Pakistan vs India,Pakistan,10,Shaheen Shah Afridi,not out,2,10,12,0,0,20,12
+Pakistan vs India,India,4,Shreyas Iyer,not out,53,62,80,3,2,85.48,12
+Pakistan vs India,India,2,Shubman Gill,out,16,11,11,4,0,145.45,12
+Pakistan vs India,India,3,Virat Kohli,out,16,18,31,3,0,88.88,12
+Afghanistan vs England,England,9,Adil Rashid,out,20,13,24,2,0,153.84,13
+Afghanistan vs England,Afghanistan,5,Azmatullah Omarzai,out,19,24,25,1,1,79.16,13
+Afghanistan vs England,England,8,Chris Woakes,out,9,26,21,1,0,34.61,13
+Afghanistan vs England,England,2,Dawid Malan,out,32,39,61,4,0,82.05,13
+Afghanistan vs England,Afghanistan,11,Fazalhaq Farooqi,not out,2,4,7,0,0,50,13
+Afghanistan vs England,England,4,Harry Brook,out,66,61,123,7,1,108.19,13
+Afghanistan vs England,Afghanistan,4,Hashmatullah Shahidi (c),out,14,36,46,0,0,38.88,13
+Afghanistan vs England,Afghanistan,2,Ibrahim Zadran,out,28,48,73,3,0,58.33,13
+Afghanistan vs England,Afghanistan,6,Ikram Alikhil †,out,58,66,92,3,2,87.87,13
+Afghanistan vs England,England,3,Joe Root,out,11,17,23,2,0,64.7,13
+Afghanistan vs England,England,1,Jonny Bairstow,out,2,4,5,0,0,50,13
+Afghanistan vs England,England,5,Jos Buttler (c)†,out,9,18,21,1,0,50,13
+Afghanistan vs England,England,6,Liam Livingstone,out,10,14,15,1,0,71.42,13
+Afghanistan vs England,England,10,Mark Wood,out,18,22,26,3,0,81.81,13
+Afghanistan vs England,Afghanistan,7,Mohammad Nabi,out,9,15,14,1,0,60,13
+Afghanistan vs England,Afghanistan,9,Mujeeb Ur Rahman,out,28,16,22,3,1,175,13
+Afghanistan vs England,Afghanistan,10,Naveen-ul-Haq,out,5,6,9,1,0,83.33,13
+Afghanistan vs England,Afghanistan,1,Rahmanullah Gurbaz,out,80,57,87,8,4,140.35,13
+Afghanistan vs England,Afghanistan,3,Rahmat Shah,out,3,8,10,0,0,37.5,13
+Afghanistan vs England,Afghanistan,8,Rashid Khan,out,23,22,37,3,0,104.54,13
+Afghanistan vs England,England,7,Sam Curran,out,10,23,22,0,0,43.47,13
+Sri Lanka vs Australia,Sri Lanka,8,Chamika Karunaratne,out,2,11,12,0,0,18.18,14
+Sri Lanka vs Australia,Sri Lanka,5,Charith Asalanka,out,25,39,75,0,1,64.1,14
+Sri Lanka vs Australia,Australia,2,David Warner,out,11,6,16,0,1,183.33,14
+Sri Lanka vs Australia,Sri Lanka,6,Dhananjaya de Silva,out,7,13,13,1,0,53.84,14
+Sri Lanka vs Australia,Sri Lanka,11,Dilshan Madushanka,not out,0,6,12,0,0,0,14
+Sri Lanka vs Australia,Sri Lanka,7,Dunith Wellalage,out,2,9,9,0,0,22.22,14
+Sri Lanka vs Australia,Australia,6,Glenn Maxwell,not out,31,21,30,4,2,147.61,14
+Sri Lanka vs Australia,Australia,5,Josh Inglis †,out,58,59,75,5,1,98.3,14
+Sri Lanka vs Australia,Sri Lanka,3,Kusal Mendis (c)†,out,9,13,27,0,0,69.23,14
+Sri Lanka vs Australia,Sri Lanka,2,Kusal Perera,out,78,82,123,12,0,95.12,14
+Sri Lanka vs Australia,Sri Lanka,10,Lahiru Kumara,out,4,8,6,1,0,50,14
+Sri Lanka vs Australia,Sri Lanka,9,Maheesh Theekshana,out,0,5,7,0,0,0,14
+Sri Lanka vs Australia,Australia,7,Marcus Stoinis,not out,20,10,10,2,1,200,14
+Sri Lanka vs Australia,Australia,4,Marnus Labuschagne,out,40,60,100,2,0,66.66,14
+Sri Lanka vs Australia,Australia,1,Mitchell Marsh,out,52,51,67,9,0,101.96,14
+Sri Lanka vs Australia,Sri Lanka,1,Pathum Nissanka,out,61,67,103,8,0,91.04,14
+Sri Lanka vs Australia,Sri Lanka,4,Sadeera Samarawickrama,out,8,8,15,1,0,100,14
+Sri Lanka vs Australia,Australia,3,Steven Smith,out,0,5,4,0,0,0,14
+Netherlands vs South Africa,South Africa,4,Aiden Markram,out,1,3,4,0,0,33.33,15
+Netherlands vs South Africa,Netherlands,10,Aryan Dutt,not out,23,9,14,0,3,255.55,15
+Netherlands vs South Africa,Netherlands,4,Bas de Leede,out,2,7,16,0,0,28.57,15
+Netherlands vs South Africa,Netherlands,3,Colin Ackermann,out,12,25,40,1,0,48,15
+Netherlands vs South Africa,South Africa,6,David Miller,out,43,52,81,4,1,82.69,15
+Netherlands vs South Africa,South Africa,8,Gerald Coetzee,out,22,23,33,2,1,95.65,15
+Netherlands vs South Africa,South Africa,5,Heinrich Klaasen,out,28,28,36,4,0,100,15
+Netherlands vs South Africa,South Africa,10,Kagiso Rabada,out,9,6,9,0,1,150,15
+Netherlands vs South Africa,South Africa,9,Keshav Maharaj,out,40,37,54,5,1,108.1,15
+Netherlands vs South Africa,Netherlands,8,Logan van Beek,out,10,27,22,1,0,37.03,15
+Netherlands vs South Africa,South Africa,7,Marco Jansen,out,9,25,22,0,0,36,15
+Netherlands vs South Africa,Netherlands,2,Max O'Dowd,out,18,25,33,4,0,72,15
+Netherlands vs South Africa,South Africa,2,Quinton de Kock †,out,20,22,28,3,0,90.9,15
+Netherlands vs South Africa,South Africa,3,Rassie van der Dussen,out,4,7,16,0,0,57.14,15
+Netherlands vs South Africa,Netherlands,9,Roelof van der Merwe,out,29,19,30,3,1,152.63,15
+Netherlands vs South Africa,Netherlands,7,Scott Edwards (c)†,not out,78,69,102,10,1,113.04,15
+Netherlands vs South Africa,Netherlands,5,Sybrand Engelbrecht,out,19,37,41,1,1,51.35,15
+Netherlands vs South Africa,Netherlands,6,Teja Nidamanuru,out,20,25,56,3,0,80,15
+Netherlands vs South Africa,South Africa,1,Temba Bavuma (c),out,16,31,35,2,1,51.61,15
+Netherlands vs South Africa,Netherlands,1,Vikramjit Singh,out,2,16,28,0,0,12.5,15
+New Zealand vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,out,27,32,39,2,0,84.37,16
+New Zealand vs Afghanistan,New Zealand,4,Daryl Mitchell,out,1,7,6,0,0,14.28,16
+New Zealand vs Afghanistan,New Zealand,1,Devon Conway,out,20,18,27,3,0,111.11,16
+New Zealand vs Afghanistan,New Zealand,6,Glenn Phillips,out,71,80,109,4,4,88.75,16
+New Zealand vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),out,8,29,30,1,0,27.58,16
+New Zealand vs Afghanistan,Afghanistan,2,Ibrahim Zadran,out,14,15,27,2,0,93.33,16
+New Zealand vs Afghanistan,Afghanistan,6,Ikram Alikhil †,not out,19,21,42,3,0,90.47,16
+New Zealand vs Afghanistan,New Zealand,7,Mark Chapman,not out,25,12,15,2,1,208.33,16
+New Zealand vs Afghanistan,New Zealand,8,Mitchell Santner,not out,7,5,13,1,0,140,16
+New Zealand vs Afghanistan,Afghanistan,7,Mohammad Nabi,out,7,9,10,1,0,77.77,16
+New Zealand vs Afghanistan,Afghanistan,9,Mujeeb Ur Rahman,out,4,3,2,1,0,133.33,16
+New Zealand vs Afghanistan,Afghanistan,10,Naveen-ul-Haq,out,0,1,1,0,0,0,16
+New Zealand vs Afghanistan,New Zealand,3,Rachin Ravindra,out,32,41,64,2,1,78.04,16
+New Zealand vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,out,11,21,24,0,1,52.38,16
+New Zealand vs Afghanistan,Afghanistan,3,Rahmat Shah,out,36,62,86,1,0,58.06,16
+New Zealand vs Afghanistan,Afghanistan,8,Rashid Khan,out,8,13,10,0,1,61.53,16
+New Zealand vs Afghanistan,New Zealand,5,Tom Latham (c)†,out,68,74,114,3,2,91.89,16
+New Zealand vs Afghanistan,New Zealand,2,Will Young,out,54,64,98,4,3,84.37,16
+Bangladesh vs India,India,5,KL Rahul †,not out,34,34,44,3,1,100,17
+Bangladesh vs India,Bangladesh,2,Litton Das,out,66,82,124,7,0,80.48,17
+Bangladesh vs India,Bangladesh,7,Mahmudullah,out,46,36,60,3,3,127.77,17
+Bangladesh vs India,Bangladesh,4,Mehidy Hasan Miraz,out,3,13,15,0,0,23.07,17
+Bangladesh vs India,Bangladesh,6,Mushfiqur Rahim †,out,38,46,60,1,1,82.6,17
+Bangladesh vs India,Bangladesh,9,Mustafizur Rahman,not out,1,7,19,0,0,14.28,17
+Bangladesh vs India,Bangladesh,3,Najmul Hossain Shanto (c),out,8,17,18,0,0,47.05,17
+Bangladesh vs India,Bangladesh,8,Nasum Ahmed,out,14,18,21,2,0,77.77,17
+Bangladesh vs India,India,1,Rohit Sharma (c),out,48,40,51,7,2,120,17
+Bangladesh vs India,Bangladesh,10,Shoriful Islam,not out,7,3,2,0,1,233.33,17
+Bangladesh vs India,India,4,Shreyas Iyer,out,19,25,38,2,0,76,17
+Bangladesh vs India,India,2,Shubman Gill,out,53,55,80,5,2,96.36,17
+Bangladesh vs India,Bangladesh,1,Tanzid Hasan,out,51,43,75,5,3,118.6,17
+Bangladesh vs India,Bangladesh,5,Towhid Hridoy,out,16,35,54,0,0,45.71,17
+Bangladesh vs India,India,3,Virat Kohli,not out,103,97,113,6,4,106.18,17
+Australia vs Pakistan,Pakistan,1,Abdullah Shafique,out,64,61,93,7,2,104.91,18
+Australia vs Pakistan,Australia,11,Adam Zampa,not out,1,1,4,0,0,100,18
+Australia vs Pakistan,Pakistan,3,Babar Azam (c),out,18,14,27,3,0,128.57,18
+Australia vs Pakistan,Australia,1,David Warner,out,163,124,180,14,9,131.45,18
+Australia vs Pakistan,Australia,3,Glenn Maxwell,out,0,1,1,0,0,0,18
+Australia vs Pakistan,Pakistan,10,Hasan Ali,out,8,8,7,2,0,100,18
+Australia vs Pakistan,Pakistan,6,Iftikhar Ahmed,out,26,20,22,0,3,130,18
+Australia vs Pakistan,Pakistan,2,Imam-ul-Haq,out,70,71,107,10,0,98.59,18
+Australia vs Pakistan,Australia,10,Josh Hazlewood,out,0,1,1,0,0,0,18
+Australia vs Pakistan,Australia,6,Josh Inglis †,out,13,9,10,3,0,144.44,18
+Australia vs Pakistan,Australia,5,Marcus Stoinis,out,21,24,46,1,1,87.5,18
+Australia vs Pakistan,Australia,7,Marnus Labuschagne,out,8,12,23,1,0,66.66,18
+Australia vs Pakistan,Australia,2,Mitchell Marsh,out,121,108,139,10,9,112.03,18
+Australia vs Pakistan,Australia,9,Mitchell Starc,out,2,3,3,0,0,66.66,18
+Australia vs Pakistan,Pakistan,7,Mohammad Nawaz,out,14,16,19,0,1,87.5,18
+Australia vs Pakistan,Pakistan,4,Mohammad Rizwan †,out,46,40,84,5,0,115,18
+Australia vs Pakistan,Australia,8,Pat Cummins (c),not out,6,8,17,0,0,75,18
+Australia vs Pakistan,Pakistan,5,Saud Shakeel,out,30,31,37,5,0,96.77,18
+Australia vs Pakistan,Pakistan,9,Shaheen Shah Afridi,out,10,8,17,2,0,125,18
+Australia vs Pakistan,Australia,4,Steven Smith,out,7,9,17,0,0,77.77,18
+Australia vs Pakistan,Pakistan,8,Usama Mir,out,0,3,4,0,0,0,18
+Netherlands vs Sri Lanka,Netherlands,10,Aryan Dutt,not out,9,6,14,1,0,150,19
+Netherlands vs Sri Lanka,Netherlands,4,Bas de Leede,out,6,21,33,0,0,28.57,19
+Netherlands vs Sri Lanka,Sri Lanka,5,Charith Asalanka,out,44,66,70,2,1,66.66,19
+Netherlands vs Sri Lanka,Netherlands,3,Colin Ackermann,out,29,31,42,5,0,93.54,19
+Netherlands vs Sri Lanka,Sri Lanka,6,Dhananjaya de Silva,out,30,37,57,1,2,81.08,19
+Netherlands vs Sri Lanka,Sri Lanka,7,Dushan Hemantha,not out,4,3,7,1,0,133.33,19
+Netherlands vs Sri Lanka,Sri Lanka,3,Kusal Mendis (c)†,out,11,17,22,2,0,64.7,19
+Netherlands vs Sri Lanka,Sri Lanka,2,Kusal Perera,out,5,8,17,1,0,62.5,19
+Netherlands vs Sri Lanka,Netherlands,8,Logan van Beek,out,59,75,108,1,1,78.66,19
+Netherlands vs Sri Lanka,Netherlands,2,Max O'Dowd,out,16,27,50,1,1,59.25,19
+Netherlands vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,54,52,69,9,0,103.84,19
+Netherlands vs Sri Lanka,Netherlands,11,Paul van Meekeren,out,4,5,6,0,0,80,19
+Netherlands vs Sri Lanka,Netherlands,9,Roelof van der Merwe,out,7,7,12,0,0,100,19
+Netherlands vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,not out,91,107,168,7,0,85.04,19
+Netherlands vs Sri Lanka,Netherlands,6,Scott Edwards (c)†,out,16,16,22,0,0,100,19
+Netherlands vs Sri Lanka,Netherlands,7,Sybrand Engelbrecht,out,70,82,100,4,1,85.36,19
+Netherlands vs Sri Lanka,Netherlands,5,Teja Nidamanuru,out,9,16,32,0,0,56.25,19
+Netherlands vs Sri Lanka,Netherlands,1,Vikramjit Singh,out,4,13,17,1,0,30.76,19
+South Africa vs England,England,8,Adil Rashid,out,10,14,14,1,0,71.42,20
+South Africa vs England,South Africa,4,Aiden Markram (c),out,42,44,63,4,0,95.45,20
+South Africa vs England,England,4,Ben Stokes,out,5,8,20,1,0,62.5,20
+South Africa vs England,South Africa,6,David Miller,out,5,6,7,1,0,83.33,20
+South Africa vs England,England,7,David Willey,out,12,12,24,1,1,100,20
+South Africa vs England,England,2,Dawid Malan,out,6,11,30,1,0,54.54,20
+South Africa vs England,South Africa,8,Gerald Coetzee,out,3,3,2,0,0,100,20
+South Africa vs England,England,9,Gus Atkinson,out,35,21,31,7,0,166.66,20
+South Africa vs England,England,5,Harry Brook,out,17,25,33,2,1,68,20
+South Africa vs England,South Africa,5,Heinrich Klaasen,out,109,67,119,12,4,162.68,20
+South Africa vs England,England,3,Joe Root,out,2,6,9,0,0,33.33,20
+South Africa vs England,England,1,Jonny Bairstow,out,10,12,13,1,1,83.33,20
+South Africa vs England,England,6,Jos Buttler (c)†,out,15,7,14,2,1,214.28,20
+South Africa vs England,South Africa,9,Keshav Maharaj,not out,1,1,1,0,0,100,20
+South Africa vs England,South Africa,7,Marco Jansen,not out,75,42,72,3,6,178.57,20
+South Africa vs England,England,10,Mark Wood,not out,43,17,25,2,5,252.94,20
+South Africa vs England,South Africa,1,Quinton de Kock †,out,4,2,3,1,0,200,20
+South Africa vs England,South Africa,3,Rassie van der Dussen,out,60,61,86,8,0,98.36,20
+South Africa vs England,South Africa,2,Reeza Hendricks,out,85,75,111,9,3,113.33,20
+New Zealand vs India,New Zealand,4,Daryl Mitchell,out,130,127,192,9,5,102.36,21
+New Zealand vs India,New Zealand,1,Devon Conway,out,0,9,16,0,0,0,21
+New Zealand vs India,New Zealand,6,Glenn Phillips,out,23,26,36,0,1,88.46,21
+New Zealand vs India,India,5,KL Rahul †,out,27,35,43,3,0,77.14,21
+New Zealand vs India,New Zealand,10,Lockie Ferguson,out,1,5,12,0,0,20,21
+New Zealand vs India,New Zealand,7,Mark Chapman,out,6,8,11,0,0,75,21
+New Zealand vs India,New Zealand,9,Matt Henry,out,0,1,1,0,0,0,21
+New Zealand vs India,New Zealand,8,Mitchell Santner,out,1,2,3,0,0,50,21
+New Zealand vs India,India,8,Mohammed Shami,not out,1,1,2,0,0,100,21
+New Zealand vs India,New Zealand,3,Rachin Ravindra,out,75,87,133,6,1,86.2,21
+New Zealand vs India,India,7,Ravindra Jadeja,not out,39,44,63,3,1,88.63,21
+New Zealand vs India,India,1,Rohit Sharma (c),out,46,40,44,4,4,115,21
+New Zealand vs India,India,4,Shreyas Iyer,out,33,29,32,6,0,113.79,21
+New Zealand vs India,India,2,Shubman Gill,out,26,31,53,5,0,83.87,21
+New Zealand vs India,India,6,Suryakumar Yadav,out,2,4,8,0,0,50,21
+New Zealand vs India,New Zealand,5,Tom Latham (c)†,out,5,7,16,1,0,71.42,21
+New Zealand vs India,New Zealand,11,Trent Boult,not out,0,1,1,0,0,0,21
+New Zealand vs India,India,3,Virat Kohli,out,95,104,154,8,2,91.34,21
+New Zealand vs India,New Zealand,2,Will Young,out,17,27,41,3,0,62.96,21
+Pakistan vs Afghanistan,Pakistan,1,Abdullah Shafique,out,58,75,89,5,2,77.33,22
+Pakistan vs Afghanistan,Pakistan,3,Babar Azam (c),out,74,92,121,4,1,80.43,22
+Pakistan vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),not out,48,45,74,4,0,106.66,22
+Pakistan vs Afghanistan,Afghanistan,2,Ibrahim Zadran,out,87,113,146,10,0,76.99,22
+Pakistan vs Afghanistan,Pakistan,7,Iftikhar Ahmed,out,40,27,40,2,4,148.14,22
+Pakistan vs Afghanistan,Pakistan,2,Imam-ul-Haq,out,17,22,44,2,0,77.27,22
+Pakistan vs Afghanistan,Pakistan,4,Mohammad Rizwan †,out,8,10,8,0,1,80,22
+Pakistan vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,out,65,53,91,9,1,122.64,22
+Pakistan vs Afghanistan,Afghanistan,3,Rahmat Shah,not out,77,84,129,5,2,91.66,22
+Pakistan vs Afghanistan,Pakistan,5,Saud Shakeel,out,25,34,35,3,0,73.52,22
+Pakistan vs Afghanistan,Pakistan,6,Shadab Khan,out,40,38,75,1,1,105.26,22
+Pakistan vs Afghanistan,Pakistan,8,Shaheen Shah Afridi,not out,3,3,4,0,0,100,22
+South Africa vs Bangladesh,South Africa,4,Aiden Markram (c),out,60,69,84,7,0,86.95,23
+South Africa vs Bangladesh,South Africa,6,David Miller,not out,34,15,26,1,4,226.66,23
+South Africa vs Bangladesh,Bangladesh,9,Hasan Mahmud,out,15,25,32,2,0,60,23
+South Africa vs Bangladesh,South Africa,5,Heinrich Klaasen,out,90,49,94,2,8,183.67,23
+South Africa vs Bangladesh,Bangladesh,2,Litton Das,out,22,44,78,3,1,50,23
+South Africa vs Bangladesh,Bangladesh,6,Mahmudullah,out,111,111,150,11,4,100,23
+South Africa vs Bangladesh,South Africa,7,Marco Jansen,not out,1,1,3,0,0,100,23
+South Africa vs Bangladesh,Bangladesh,7,Mehidy Hasan Miraz,out,11,19,26,1,0,57.89,23
+South Africa vs Bangladesh,Bangladesh,5,Mushfiqur Rahim †,out,8,17,24,1,0,47.05,23
+South Africa vs Bangladesh,Bangladesh,10,Mustafizur Rahman,out,11,21,51,2,0,52.38,23
+South Africa vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,out,0,1,1,0,0,0,23
+South Africa vs Bangladesh,Bangladesh,8,Nasum Ahmed,out,19,19,27,3,0,100,23
+South Africa vs Bangladesh,South Africa,1,Quinton de Kock †,out,174,140,192,15,7,124.28,23
+South Africa vs Bangladesh,South Africa,3,Rassie van der Dussen,out,1,7,6,0,0,14.28,23
+South Africa vs Bangladesh,South Africa,2,Reeza Hendricks,out,12,19,24,1,0,63.15,23
+South Africa vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),out,1,4,4,0,0,25,23
+South Africa vs Bangladesh,Bangladesh,1,Tanzid Hasan,out,12,17,30,1,0,70.58,23
+Australia vs Netherlands,Australia,10,Adam Zampa,not out,1,1,2,0,0,100,24
+Australia vs Netherlands,Netherlands,10,Aryan Dutt,out,1,8,9,0,0,12.5,24
+Australia vs Netherlands,Netherlands,5,Bas de Leede,out,4,7,7,1,0,57.14,24
+Australia vs Netherlands,Australia,7,Cameron Green,out,8,11,15,1,0,72.72,24
+Australia vs Netherlands,Netherlands,3,Colin Ackermann,out,10,11,21,2,0,90.9,24
+Australia vs Netherlands,Australia,2,David Warner,out,104,93,182,11,3,111.82,24
+Australia vs Netherlands,Australia,6,Glenn Maxwell,out,106,44,53,9,8,240.9,24
+Australia vs Netherlands,Australia,5,Josh Inglis †,out,14,12,12,1,1,116.66,24
+Australia vs Netherlands,Netherlands,8,Logan van Beek,out,0,3,3,0,0,0,24
+Australia vs Netherlands,Australia,4,Marnus Labuschagne,out,62,47,60,7,2,131.91,24
+Australia vs Netherlands,Netherlands,2,Max O'Dowd,out,6,9,21,1,0,66.66,24
+Australia vs Netherlands,Australia,1,Mitchell Marsh,out,9,15,15,2,0,60,24
+Australia vs Netherlands,Australia,9,Mitchell Starc,out,0,1,1,0,0,0,24
+Australia vs Netherlands,Australia,8,Pat Cummins (c),not out,12,9,39,2,0,133.33,24
+Australia vs Netherlands,Netherlands,9,Roelof van der Merwe,out,0,1,1,0,0,0,24
+Australia vs Netherlands,Netherlands,6,Scott Edwards (c)†,not out,12,22,53,0,0,54.54,24
+Australia vs Netherlands,Australia,3,Steven Smith,out,71,68,88,9,1,104.41,24
+Australia vs Netherlands,Netherlands,4,Sybrand Engelbrecht,out,11,21,36,1,0,52.38,24
+Australia vs Netherlands,Netherlands,7,Teja Nidamanuru,out,14,18,19,2,0,77.77,24
+Australia vs Netherlands,Netherlands,1,Vikramjit Singh,out,25,25,28,6,0,100,24
+England vs Sri Lanka,England,10,Adil Rashid,out,2,7,7,0,0,28.57,25
+England vs Sri Lanka,England,4,Ben Stokes,out,43,73,98,6,0,58.9,25
+England vs Sri Lanka,England,8,Chris Woakes,out,0,4,8,0,0,0,25
+England vs Sri Lanka,England,9,David Willey,not out,14,17,34,1,1,82.35,25
+England vs Sri Lanka,England,2,Dawid Malan,out,28,25,32,6,0,112,25
+England vs Sri Lanka,England,3,Joe Root,out,3,10,14,0,0,30,25
+England vs Sri Lanka,England,1,Jonny Bairstow,out,30,31,64,3,0,96.77,25
+England vs Sri Lanka,England,5,Jos Buttler (c)†,out,8,6,6,1,0,133.33,25
+England vs Sri Lanka,Sri Lanka,3,Kusal Mendis (c)†,out,11,12,15,2,0,91.66,25
+England vs Sri Lanka,Sri Lanka,2,Kusal Perera,out,4,5,8,1,0,80,25
+England vs Sri Lanka,England,6,Liam Livingstone,out,1,6,9,0,0,16.66,25
+England vs Sri Lanka,England,11,Mark Wood,out,5,6,6,1,0,83.33,25
+England vs Sri Lanka,England,7,Moeen Ali,out,15,15,33,1,0,100,25
+England vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,not out,77,83,110,7,2,92.77,25
+England vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,not out,65,54,84,7,1,120.37,25
+Pakistan vs South Africa,Pakistan,1,Abdullah Shafique,out,9,17,21,1,0,52.94,26
+Pakistan vs South Africa,South Africa,4,Aiden Markram,out,91,93,151,7,3,97.84,26
+Pakistan vs South Africa,Pakistan,3,Babar Azam (c),out,50,65,100,4,1,76.92,26
+Pakistan vs South Africa,South Africa,6,David Miller,out,29,33,55,2,2,87.87,26
+Pakistan vs South Africa,South Africa,8,Gerald Coetzee,out,10,13,23,0,0,76.92,26
+Pakistan vs South Africa,Pakistan,11,Haris Rauf,not out,0,1,5,0,0,0,26
+Pakistan vs South Africa,South Africa,5,Heinrich Klaasen,out,12,10,12,0,1,120,26
+Pakistan vs South Africa,Pakistan,5,Iftikhar Ahmed,out,21,31,38,1,1,67.74,26
+Pakistan vs South Africa,Pakistan,2,Imam-ul-Haq,out,12,18,35,2,0,66.66,26
+Pakistan vs South Africa,South Africa,9,Keshav Maharaj,not out,7,21,44,1,0,33.33,26
+Pakistan vs South Africa,South Africa,10,Lungi Ngidi,out,4,14,24,0,0,28.57,26
+Pakistan vs South Africa,South Africa,7,Marco Jansen,out,20,14,18,2,1,142.85,26
+Pakistan vs South Africa,Pakistan,8,Mohammad Nawaz,out,24,24,32,1,2,100,26
+Pakistan vs South Africa,Pakistan,4,Mohammad Rizwan †,out,31,27,35,4,1,114.81,26
+Pakistan vs South Africa,Pakistan,10,Mohammad Wasim,out,7,9,13,0,1,77.77,26
+Pakistan vs South Africa,South Africa,2,Quinton de Kock †,out,24,14,19,5,0,171.42,26
+Pakistan vs South Africa,South Africa,3,Rassie van der Dussen,out,21,39,71,0,0,53.84,26
+Pakistan vs South Africa,Pakistan,6,Saud Shakeel,out,52,52,81,7,0,100,26
+Pakistan vs South Africa,Pakistan,7,Shadab Khan,out,43,36,53,3,2,119.44,26
+Pakistan vs South Africa,Pakistan,9,Shaheen Shah Afridi,out,2,4,10,0,0,50,26
+Pakistan vs South Africa,South Africa,1,Temba Bavuma (c),out,28,27,49,4,1,103.7,26
+Australia vs New Zealand,Australia,10,Adam Zampa,out,0,3,2,0,0,0,27
+Australia vs New Zealand,New Zealand,4,Daryl Mitchell,out,54,51,59,6,1,105.88,27
+Australia vs New Zealand,Australia,1,David Warner,out,81,65,77,5,6,124.61,27
+Australia vs New Zealand,New Zealand,1,Devon Conway,out,28,17,35,6,0,164.7,27
+Australia vs New Zealand,Australia,6,Glenn Maxwell,out,41,24,37,5,2,170.83,27
+Australia vs New Zealand,New Zealand,6,Glenn Phillips,out,12,16,21,1,0,75,27
+Australia vs New Zealand,New Zealand,7,James Neesham,out,58,39,64,3,3,148.71,27
+Australia vs New Zealand,Australia,11,Josh Hazlewood,not out,0,0,1,0,0,0,27
+Australia vs New Zealand,Australia,7,Josh Inglis †,out,38,28,48,4,1,135.71,27
+Australia vs New Zealand,Australia,5,Marnus Labuschagne,out,18,26,36,2,0,69.23,27
+Australia vs New Zealand,New Zealand,9,Matt Henry,out,9,8,14,1,0,112.5,27
+Australia vs New Zealand,Australia,3,Mitchell Marsh,out,36,51,65,2,0,70.58,27
+Australia vs New Zealand,New Zealand,8,Mitchell Santner,out,17,12,13,1,1,141.66,27
+Australia vs New Zealand,Australia,9,Mitchell Starc,out,1,3,7,0,0,33.33,27
+Australia vs New Zealand,Australia,8,Pat Cummins (c),out,37,14,23,2,4,264.28,27
+Australia vs New Zealand,New Zealand,3,Rachin Ravindra,out,116,89,137,9,5,130.33,27
+Australia vs New Zealand,Australia,4,Steven Smith,out,18,17,19,2,0,105.88,27
+Australia vs New Zealand,New Zealand,5,Tom Latham (c)†,out,21,22,29,2,0,95.45,27
+Australia vs New Zealand,Australia,2,Travis Head,out,109,67,94,10,7,162.68,27
+Australia vs New Zealand,New Zealand,10,Trent Boult,not out,10,8,21,0,1,125,27
+Australia vs New Zealand,New Zealand,2,Will Young,out,32,37,44,4,1,86.48,27
+Netherlands vs Bangladesh,Netherlands,10,Aryan Dutt,out,9,6,7,0,1,150,28
+Netherlands vs Bangladesh,Netherlands,6,Bas de Leede,out,17,32,49,2,0,53.12,28
+Netherlands vs Bangladesh,Netherlands,4,Colin Ackermann,out,15,33,50,1,0,45.45,28
+Netherlands vs Bangladesh,Bangladesh,1,Litton Das,out,3,12,20,0,0,25,28
+Netherlands vs Bangladesh,Netherlands,8,Logan van Beek,not out,23,16,33,2,1,143.75,28
+Netherlands vs Bangladesh,Bangladesh,8,Mahedi Hasan,out,17,38,51,1,0,44.73,28
+Netherlands vs Bangladesh,Bangladesh,7,Mahmudullah,out,20,41,70,2,0,48.78,28
+Netherlands vs Bangladesh,Netherlands,2,Max O'Dowd,out,0,3,11,0,0,0,28
+Netherlands vs Bangladesh,Bangladesh,3,Mehidy Hasan Miraz,out,35,40,51,5,1,87.5,28
+Netherlands vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,out,1,5,9,0,0,20,28
+Netherlands vs Bangladesh,Bangladesh,10,Mustafizur Rahman,out,20,35,34,2,1,57.14,28
+Netherlands vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,out,9,18,27,2,0,50,28
+Netherlands vs Bangladesh,Netherlands,11,Paul van Meekeren,out,0,2,6,0,0,0,28
+Netherlands vs Bangladesh,Netherlands,5,Scott Edwards (c)†,out,68,89,122,6,0,76.4,28
+Netherlands vs Bangladesh,Bangladesh,5,Shakib Al Hasan (c),out,5,14,14,0,0,35.71,28
+Netherlands vs Bangladesh,Netherlands,9,Shariz Ahmad,out,6,8,13,0,0,75,28
+Netherlands vs Bangladesh,Netherlands,7,Sybrand Engelbrecht,out,35,61,72,3,0,57.37,28
+Netherlands vs Bangladesh,Bangladesh,2,Tanzid Hasan,out,15,16,25,3,0,93.75,28
+Netherlands vs Bangladesh,Bangladesh,9,Taskin Ahmed,out,11,35,49,1,0,31.42,28
+Netherlands vs Bangladesh,Netherlands,1,Vikramjit Singh,out,3,9,7,0,0,33.33,28
+Netherlands vs Bangladesh,Netherlands,3,Wesley Barresi,out,41,41,49,8,0,100,28
+India vs England,England,10,Adil Rashid,out,13,20,19,2,0,65,29
+India vs England,England,4,Ben Stokes,out,0,10,14,0,0,0,29
+India vs England,England,8,Chris Woakes,out,10,20,21,1,0,50,29
+India vs England,England,9,David Willey,not out,16,17,29,0,2,94.11,29
+India vs England,England,2,Dawid Malan,out,16,17,25,2,1,94.11,29
+India vs England,India,9,Jasprit Bumrah,out,16,25,44,1,0,64,29
+India vs England,England,3,Joe Root,out,0,1,2,0,0,0,29
+India vs England,England,1,Jonny Bairstow,out,14,23,53,2,0,60.86,29
+India vs England,England,5,Jos Buttler (c)†,out,10,23,33,1,0,43.47,29
+India vs England,India,5,KL Rahul †,out,39,58,77,3,0,67.24,29
+India vs England,India,10,Kuldeep Yadav,not out,9,13,18,1,0,69.23,29
+India vs England,England,7,Liam Livingstone,out,27,46,56,2,0,58.69,29
+India vs England,England,6,Moeen Ali,out,15,31,55,0,0,48.38,29
+India vs England,India,8,Mohammed Shami,out,1,5,4,0,0,20,29
+India vs England,India,7,Ravindra Jadeja,out,8,13,14,0,0,61.53,29
+India vs England,India,1,Rohit Sharma (c),out,87,101,162,10,3,86.13,29
+India vs England,India,4,Shreyas Iyer,out,4,16,21,0,0,25,29
+India vs England,India,2,Shubman Gill,out,9,13,18,1,0,69.23,29
+India vs England,India,6,Suryakumar Yadav,out,49,47,75,4,1,104.25,29
+India vs England,India,3,Virat Kohli,out,0,9,12,0,0,0,29
+Sri Lanka vs Afghanistan,Sri Lanka,7,Angelo Mathews,out,23,26,61,1,1,88.46,30
+Sri Lanka vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,not out,73,63,80,6,3,115.87,30
+Sri Lanka vs Afghanistan,Sri Lanka,5,Charith Asalanka,out,22,28,48,2,0,78.57,30
+Sri Lanka vs Afghanistan,Sri Lanka,6,Dhananjaya de Silva,out,14,26,24,1,0,53.84,30
+Sri Lanka vs Afghanistan,Sri Lanka,11,Dilshan Madushanka,not out,0,4,5,0,0,0,30
+Sri Lanka vs Afghanistan,Sri Lanka,2,Dimuth Karunaratne,out,15,21,25,1,0,71.42,30
+Sri Lanka vs Afghanistan,Sri Lanka,8,Dushmantha Chameera,out,1,4,5,0,0,25,30
+Sri Lanka vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),not out,58,74,132,2,1,78.37,30
+Sri Lanka vs Afghanistan,Afghanistan,2,Ibrahim Zadran,out,39,57,73,4,1,68.42,30
+Sri Lanka vs Afghanistan,Sri Lanka,10,Kasun Rajitha,out,5,7,14,0,0,71.42,30
+Sri Lanka vs Afghanistan,Sri Lanka,3,Kusal Mendis (c)†,out,39,50,91,3,0,78,30
+Sri Lanka vs Afghanistan,Sri Lanka,9,Maheesh Theekshana,out,29,31,31,3,1,93.54,30
+Sri Lanka vs Afghanistan,Sri Lanka,1,Pathum Nissanka,out,46,60,82,5,0,76.66,30
+Sri Lanka vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,out,0,4,2,0,0,0,30
+Sri Lanka vs Afghanistan,Afghanistan,3,Rahmat Shah,out,62,74,121,7,0,83.78,30
+Sri Lanka vs Afghanistan,Sri Lanka,4,Sadeera Samarawickrama,out,36,40,42,3,0,90,30
+Bangladesh vs Pakistan,Pakistan,1,Abdullah Shafique,out,68,69,94,9,2,98.55,31
+Bangladesh vs Pakistan,Pakistan,3,Babar Azam (c),out,9,16,20,1,0,56.25,31
+Bangladesh vs Pakistan,Pakistan,2,Fakhar Zaman,out,81,74,126,3,7,109.45,31
+Bangladesh vs Pakistan,Pakistan,5,Iftikhar Ahmed,not out,17,15,17,2,0,113.33,31
+Bangladesh vs Pakistan,Bangladesh,2,Litton Das,out,45,64,100,6,0,70.31,31
+Bangladesh vs Pakistan,Bangladesh,5,Mahmudullah,out,56,70,108,6,1,80,31
+Bangladesh vs Pakistan,Bangladesh,8,Mehidy Hasan Miraz,out,25,30,50,1,1,83.33,31
+Bangladesh vs Pakistan,Pakistan,4,Mohammad Rizwan †,not out,26,21,27,4,0,123.8,31
+Bangladesh vs Pakistan,Bangladesh,4,Mushfiqur Rahim †,out,5,8,18,1,0,62.5,31
+Bangladesh vs Pakistan,Bangladesh,10,Mustafizur Rahman,out,3,7,11,0,0,42.85,31
+Bangladesh vs Pakistan,Bangladesh,3,Najmul Hossain Shanto,out,4,3,8,1,0,133.33,31
+Bangladesh vs Pakistan,Bangladesh,6,Shakib Al Hasan (c),out,43,64,82,4,0,67.18,31
+Bangladesh vs Pakistan,Bangladesh,11,Shoriful Islam,not out,1,4,8,0,0,25,31
+Bangladesh vs Pakistan,Bangladesh,1,Tanzid Hasan,out,0,5,7,0,0,0,31
+Bangladesh vs Pakistan,Bangladesh,9,Taskin Ahmed,out,6,13,20,0,0,46.15,31
+Bangladesh vs Pakistan,Bangladesh,7,Towhid Hridoy,out,7,3,9,0,1,233.33,31
+South Africa vs New Zealand,South Africa,6,Aiden Markram,not out,6,1,1,0,1,600,32
+South Africa vs New Zealand,New Zealand,4,Daryl Mitchell,out,24,30,40,4,0,80,32
+South Africa vs New Zealand,South Africa,4,David Miller,out,53,30,48,2,4,176.66,32
+South Africa vs New Zealand,New Zealand,1,Devon Conway,out,2,6,13,0,0,33.33,32
+South Africa vs New Zealand,New Zealand,6,Glenn Phillips,out,60,50,87,4,4,120,32
+South Africa vs New Zealand,South Africa,5,Heinrich Klaasen,not out,15,7,13,1,1,214.28,32
+South Africa vs New Zealand,New Zealand,9,James Neesham,out,0,8,6,0,0,0,32
+South Africa vs New Zealand,New Zealand,7,Mitchell Santner,out,7,18,14,1,0,38.88,32
+South Africa vs New Zealand,South Africa,1,Quinton de Kock †,out,114,116,176,10,3,98.27,32
+South Africa vs New Zealand,New Zealand,3,Rachin Ravindra,out,9,16,28,1,0,56.25,32
+South Africa vs New Zealand,South Africa,3,Rassie van der Dussen,out,133,118,172,9,5,112.71,32
+South Africa vs New Zealand,South Africa,2,Temba Bavuma (c),out,24,28,37,4,1,85.71,32
+South Africa vs New Zealand,New Zealand,8,Tim Southee,out,7,11,11,1,0,63.63,32
+South Africa vs New Zealand,New Zealand,5,Tom Latham (c)†,out,4,15,18,0,0,26.66,32
+South Africa vs New Zealand,New Zealand,10,Trent Boult,out,9,14,17,1,0,64.28,32
+South Africa vs New Zealand,New Zealand,2,Will Young,out,33,37,50,5,0,89.18,32
+India vs Sri Lanka,Sri Lanka,6,Angelo Mathews,out,12,25,55,1,0,48,33
+India vs Sri Lanka,Sri Lanka,5,Charith Asalanka,out,1,24,42,0,0,4.16,33
+India vs Sri Lanka,Sri Lanka,2,Dimuth Karunaratne,out,0,1,10,0,0,0,33
+India vs Sri Lanka,Sri Lanka,7,Dushan Hemantha,out,0,1,1,0,0,0,33
+India vs Sri Lanka,Sri Lanka,8,Dushmantha Chameera,out,0,6,10,0,0,0,33
+India vs Sri Lanka,India,9,Jasprit Bumrah,not out,1,1,1,0,0,100,33
+India vs Sri Lanka,Sri Lanka,10,Kasun Rajitha,out,14,17,20,2,0,82.35,33
+India vs Sri Lanka,India,5,KL Rahul †,out,21,19,34,2,0,110.52,33
+India vs Sri Lanka,Sri Lanka,3,Kusal Mendis (c)†,out,1,10,21,0,0,10,33
+India vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana,not out,12,23,37,2,0,52.17,33
+India vs Sri Lanka,India,8,Mohammed Shami,out,2,4,11,0,0,50,33
+India vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,0,1,2,0,0,0,33
+India vs Sri Lanka,India,7,Ravindra Jadeja,out,35,24,41,1,1,145.83,33
+India vs Sri Lanka,India,1,Rohit Sharma (c),out,4,2,2,1,0,200,33
+India vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,out,0,4,4,0,0,0,33
+India vs Sri Lanka,India,4,Shreyas Iyer,out,82,56,84,3,6,146.42,33
+India vs Sri Lanka,India,2,Shubman Gill,out,92,92,136,11,2,100,33
+India vs Sri Lanka,India,6,Suryakumar Yadav,out,12,9,13,2,0,133.33,33
+India vs Sri Lanka,India,3,Virat Kohli,out,88,94,139,11,0,93.61,33
+Netherlands vs Afghanistan,Netherlands,10,Aryan Dutt,not out,10,22,42,0,0,45.45,34
+Netherlands vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,not out,31,28,38,3,0,110.71,34
+Netherlands vs Afghanistan,Netherlands,6,Bas de Leede,out,3,6,5,0,0,50,34
+Netherlands vs Afghanistan,Netherlands,3,Colin Ackermann,out,29,35,71,4,0,82.85,34
+Netherlands vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),not out,56,64,92,6,0,87.5,34
+Netherlands vs Afghanistan,Afghanistan,2,Ibrahim Zadran,out,20,34,44,2,0,58.82,34
+Netherlands vs Afghanistan,Netherlands,8,Logan van Beek,out,2,13,16,0,0,15.38,34
+Netherlands vs Afghanistan,Netherlands,2,Max O'Dowd,out,42,40,50,9,0,105,34
+Netherlands vs Afghanistan,Netherlands,11,Paul van Meekeren,out,4,24,18,0,0,16.66,34
+Netherlands vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,out,10,11,24,2,0,90.9,34
+Netherlands vs Afghanistan,Afghanistan,3,Rahmat Shah,out,52,54,74,8,0,96.29,34
+Netherlands vs Afghanistan,Netherlands,9,Roelof van der Merwe,out,11,33,36,0,0,33.33,34
+Netherlands vs Afghanistan,Netherlands,7,Saqib Zulfiqar,out,3,15,19,0,0,20,34
+Netherlands vs Afghanistan,Netherlands,5,Scott Edwards (c)†,out,0,1,1,0,0,0,34
+Netherlands vs Afghanistan,Netherlands,4,Sybrand Engelbrecht,out,58,86,85,6,0,67.44,34
+Netherlands vs Afghanistan,Netherlands,1,Wesley Barresi,out,1,4,3,0,0,25,34
+New Zealand vs Pakistan,Pakistan,1,Abdullah Shafique,out,4,9,8,1,0,44.44,35
+New Zealand vs Pakistan,Pakistan,3,Babar Azam (c),not out,66,63,93,6,2,104.76,35
+New Zealand vs Pakistan,New Zealand,4,Daryl Mitchell,out,29,18,32,4,1,161.11,35
+New Zealand vs Pakistan,New Zealand,1,Devon Conway,out,35,39,48,6,0,89.74,35
+New Zealand vs Pakistan,Pakistan,2,Fakhar Zaman,not out,126,81,103,8,11,155.55,35
+New Zealand vs Pakistan,New Zealand,6,Glenn Phillips,out,41,25,40,4,2,164,35
+New Zealand vs Pakistan,New Zealand,3,Kane Williamson (c),out,95,79,111,10,2,120.25,35
+New Zealand vs Pakistan,New Zealand,5,Mark Chapman,out,39,27,42,7,0,144.44,35
+New Zealand vs Pakistan,New Zealand,7,Mitchell Santner,not out,26,17,27,0,2,152.94,35
+New Zealand vs Pakistan,New Zealand,2,Rachin Ravindra,out,108,94,170,15,1,114.89,35
+New Zealand vs Pakistan,New Zealand,8,Tom Latham †,not out,2,2,4,0,0,100,35
+Australia vs England,Australia,10,Adam Zampa,out,29,19,23,4,0,152.63,36
+Australia vs England,England,10,Adil Rashid,out,20,15,23,1,1,133.33,36
+Australia vs England,England,4,Ben Stokes,out,64,90,128,2,3,71.11,36
+Australia vs England,Australia,6,Cameron Green,out,47,52,81,5,0,90.38,36
+Australia vs England,England,8,Chris Woakes,out,32,33,52,4,1,96.96,36
+Australia vs England,Australia,2,David Warner,out,15,16,29,1,1,93.75,36
+Australia vs England,England,9,David Willey,out,15,14,19,3,0,107.14,36
+Australia vs England,England,2,Dawid Malan,out,50,64,99,4,1,78.12,36
+Australia vs England,England,3,Joe Root,out,13,17,23,2,0,76.47,36
+Australia vs England,England,1,Jonny Bairstow,out,0,1,1,0,0,0,36
+Australia vs England,England,5,Jos Buttler (c)†,out,1,7,10,0,0,14.28,36
+Australia vs England,Australia,11,Josh Hazlewood,not out,1,1,1,0,0,100,36
+Australia vs England,Australia,5,Josh Inglis †,out,3,6,5,0,0,50,36
+Australia vs England,England,7,Liam Livingstone,out,2,5,6,0,0,40,36
+Australia vs England,Australia,7,Marcus Stoinis,out,35,32,53,3,2,109.37,36
+Australia vs England,Australia,4,Marnus Labuschagne,out,71,83,111,7,0,85.54,36
+Australia vs England,Australia,9,Mitchell Starc,out,10,13,30,0,0,76.92,36
+Australia vs England,England,6,Moeen Ali,out,42,43,61,6,0,97.67,36
+Australia vs England,Australia,8,Pat Cummins (c),out,10,13,17,1,0,76.92,36
+Australia vs England,Australia,3,Steven Smith,out,44,52,85,3,0,84.61,36
+Australia vs England,Australia,1,Travis Head,out,11,10,8,1,0,110,36
+India vs South Africa,South Africa,4,Aiden Markram,out,9,6,6,2,0,150,37
+India vs South Africa,South Africa,6,David Miller,out,11,11,17,2,0,100,37
+India vs South Africa,South Africa,5,Heinrich Klaasen,out,1,11,12,0,0,9.09,37
+India vs South Africa,South Africa,9,Kagiso Rabada,out,6,26,26,0,0,23.07,37
+India vs South Africa,South Africa,8,Keshav Maharaj,out,7,11,7,1,0,63.63,37
+India vs South Africa,India,5,KL Rahul †,out,8,17,29,0,0,47.05,37
+India vs South Africa,South Africa,10,Lungi Ngidi,out,0,3,7,0,0,0,37
+India vs South Africa,South Africa,7,Marco Jansen,out,14,30,45,1,0,46.66,37
+India vs South Africa,South Africa,1,Quinton de Kock †,out,5,10,9,1,0,50,37
+India vs South Africa,South Africa,3,Rassie van der Dussen,out,13,32,55,1,0,40.62,37
+India vs South Africa,India,7,Ravindra Jadeja,not out,29,15,21,3,1,193.33,37
+India vs South Africa,India,1,Rohit Sharma (c),out,40,24,32,6,2,166.66,37
+India vs South Africa,India,4,Shreyas Iyer,out,77,87,101,7,2,88.5,37
+India vs South Africa,India,2,Shubman Gill,out,23,24,54,4,1,95.83,37
+India vs South Africa,India,6,Suryakumar Yadav,out,22,14,19,5,0,157.14,37
+India vs South Africa,South Africa,2,Temba Bavuma (c),out,11,19,39,1,0,57.89,37
+India vs South Africa,India,3,Virat Kohli,not out,101,121,195,10,0,83.47,37
+Sri Lanka vs Bangladesh,Sri Lanka,6,Angelo Mathews,out,0,0,4,0,0,0,38
+Sri Lanka vs Bangladesh,Sri Lanka,5,Charith Asalanka,out,108,105,159,6,5,102.85,38
+Sri Lanka vs Bangladesh,Sri Lanka,7,Dhananjaya de Silva,out,34,36,58,4,1,94.44,38
+Sri Lanka vs Bangladesh,Sri Lanka,11,Dilshan Madushanka,not out,0,1,3,0,0,0,38
+Sri Lanka vs Bangladesh,Sri Lanka,9,Dushmantha Chameera,out,4,9,17,0,0,44.44,38
+Sri Lanka vs Bangladesh,Sri Lanka,10,Kasun Rajitha,out,0,2,1,0,0,0,38
+Sri Lanka vs Bangladesh,Sri Lanka,3,Kusal Mendis (c)†,out,19,30,49,1,1,63.33,38
+Sri Lanka vs Bangladesh,Sri Lanka,2,Kusal Perera,out,4,5,5,1,0,80,38
+Sri Lanka vs Bangladesh,Bangladesh,2,Litton Das,out,23,22,36,2,2,104.54,38
+Sri Lanka vs Bangladesh,Sri Lanka,8,Maheesh Theekshana,out,21,31,35,3,0,67.74,38
+Sri Lanka vs Bangladesh,Bangladesh,5,Mahmudullah,out,22,23,37,3,1,95.65,38
+Sri Lanka vs Bangladesh,Bangladesh,8,Mehidy Hasan Miraz,out,3,5,9,0,0,60,38
+Sri Lanka vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,out,10,13,21,1,0,76.92,38
+Sri Lanka vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,out,90,101,163,12,0,89.1,38
+Sri Lanka vs Bangladesh,Sri Lanka,1,Pathum Nissanka,out,41,36,61,8,0,113.88,38
+Sri Lanka vs Bangladesh,Sri Lanka,4,Sadeera Samarawickrama,out,41,42,53,4,0,97.61,38
+Sri Lanka vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),out,82,65,128,12,2,126.15,38
+Sri Lanka vs Bangladesh,Bangladesh,1,Tanzid Hasan,out,9,5,11,2,0,180,38
+Sri Lanka vs Bangladesh,Bangladesh,9,Tanzim Hasan Sakib,not out,5,6,6,1,0,83.33,38
+Sri Lanka vs Bangladesh,Bangladesh,7,Towhid Hridoy,not out,15,7,22,0,2,214.28,38
+Afghanistan vs Australia,Afghanistan,5,Azmatullah Omarzai,out,22,18,23,1,2,122.22,39
+Afghanistan vs Australia,Australia,1,David Warner,out,18,29,46,3,0,62.06,39
+Afghanistan vs Australia,Australia,6,Glenn Maxwell,not out,201,128,181,21,10,157.03,39
+Afghanistan vs Australia,Afghanistan,4,Hashmatullah Shahidi (c),out,26,43,50,2,0,60.46,39
+Afghanistan vs Australia,Afghanistan,2,Ibrahim Zadran,not out,129,143,217,8,3,90.2,39
+Afghanistan vs Australia,Australia,5,Josh Inglis †,out,0,1,1,0,0,0,39
+Afghanistan vs Australia,Australia,7,Marcus Stoinis,out,6,7,13,1,0,85.71,39
+Afghanistan vs Australia,Australia,4,Marnus Labuschagne,out,14,28,53,2,0,50,39
+Afghanistan vs Australia,Australia,3,Mitchell Marsh,out,24,11,22,2,2,218.18,39
+Afghanistan vs Australia,Australia,8,Mitchell Starc,out,3,7,8,0,0,42.85,39
+Afghanistan vs Australia,Afghanistan,6,Mohammad Nabi,out,12,10,15,0,1,120,39
+Afghanistan vs Australia,Australia,9,Pat Cummins (c),not out,12,68,122,1,0,17.64,39
+Afghanistan vs Australia,Afghanistan,1,Rahmanullah Gurbaz,out,21,25,38,2,0,84,39
+Afghanistan vs Australia,Afghanistan,3,Rahmat Shah,out,30,44,61,1,0,68.18,39
+Afghanistan vs Australia,Afghanistan,7,Rashid Khan,not out,35,18,25,2,3,194.44,39
+Afghanistan vs Australia,Australia,2,Travis Head,out,0,2,5,0,0,0,39
+England vs Netherlands,England,11,Adil Rashid,not out,1,1,3,0,0,100,40
+England vs Netherlands,Netherlands,10,Aryan Dutt,out,1,3,4,0,0,33.33,40
+England vs Netherlands,Netherlands,6,Bas de Leede,out,10,12,11,2,0,83.33,40
+England vs Netherlands,England,4,Ben Stokes,out,108,84,136,6,6,128.57,40
+England vs Netherlands,England,8,Chris Woakes,out,51,45,66,5,1,113.33,40
+England vs Netherlands,Netherlands,3,Colin Ackermann,out,0,2,4,0,0,0,40
+England vs Netherlands,England,9,David Willey,out,6,2,1,0,1,300,40
+England vs Netherlands,England,2,Dawid Malan,out,87,74,92,10,2,117.56,40
+England vs Netherlands,England,10,Gus Atkinson,not out,2,1,7,0,0,200,40
+England vs Netherlands,England,5,Harry Brook,out,11,16,19,2,0,68.75,40
+England vs Netherlands,England,3,Joe Root,out,28,35,53,1,0,80,40
+England vs Netherlands,England,1,Jonny Bairstow,out,15,17,29,2,0,88.23,40
+England vs Netherlands,England,6,Jos Buttler (c)†,out,5,11,12,0,0,45.45,40
+England vs Netherlands,Netherlands,8,Logan van Beek,out,2,2,3,0,0,100,40
+England vs Netherlands,Netherlands,2,Max O'Dowd,out,5,11,20,1,0,45.45,40
+England vs Netherlands,England,7,Moeen Ali,out,4,15,20,0,0,26.66,40
+England vs Netherlands,Netherlands,9,Roelof van der Merwe,out,0,4,3,0,0,0,40
+England vs Netherlands,Netherlands,5,Scott Edwards (c)†,out,38,42,67,3,1,90.47,40
+England vs Netherlands,Netherlands,4,Sybrand Engelbrecht,out,33,49,73,3,1,67.34,40
+England vs Netherlands,Netherlands,7,Teja Nidamanuru,not out,41,34,47,2,3,120.58,40
+England vs Netherlands,Netherlands,1,Wesley Barresi,out,37,62,77,3,1,59.67,40
+Sri Lanka vs New Zealand,Sri Lanka,6,Angelo Mathews,out,16,27,33,2,0,59.25,41
+Sri Lanka vs New Zealand,Sri Lanka,8,Chamika Karunaratne,out,6,17,28,1,0,35.29,41
+Sri Lanka vs New Zealand,Sri Lanka,5,Charith Asalanka,out,8,8,16,1,0,100,41
+Sri Lanka vs New Zealand,New Zealand,4,Daryl Mitchell,out,43,31,45,5,2,138.7,41
+Sri Lanka vs New Zealand,New Zealand,1,Devon Conway,out,45,42,54,9,0,107.14,41
+Sri Lanka vs New Zealand,Sri Lanka,7,Dhananjaya de Silva,out,19,24,36,2,1,79.16,41
+Sri Lanka vs New Zealand,Sri Lanka,11,Dilshan Madushanka,out,19,48,56,2,0,39.58,41
+Sri Lanka vs New Zealand,Sri Lanka,10,Dushmantha Chameera,out,1,20,32,0,0,5,41
+Sri Lanka vs New Zealand,New Zealand,6,Glenn Phillips,not out,17,10,15,3,0,170,41
+Sri Lanka vs New Zealand,New Zealand,3,Kane Williamson (c),out,14,15,26,2,0,93.33,41
+Sri Lanka vs New Zealand,Sri Lanka,3,Kusal Mendis (c)†,out,6,7,11,1,0,85.71,41
+Sri Lanka vs New Zealand,Sri Lanka,2,Kusal Perera,out,51,28,46,9,2,182.14,41
+Sri Lanka vs New Zealand,Sri Lanka,9,Maheesh Theekshana,not out,38,91,109,3,0,41.75,41
+Sri Lanka vs New Zealand,New Zealand,5,Mark Chapman,out,7,6,13,1,0,116.66,41
+Sri Lanka vs New Zealand,Sri Lanka,1,Pathum Nissanka,out,2,8,9,0,0,25,41
+Sri Lanka vs New Zealand,New Zealand,2,Rachin Ravindra,out,42,34,61,3,3,123.52,41
+Sri Lanka vs New Zealand,Sri Lanka,4,Sadeera Samarawickrama,out,1,2,2,0,0,50,41
+Sri Lanka vs New Zealand,New Zealand,7,Tom Latham †,not out,2,2,3,0,0,100,41
+Afghanistan vs South Africa,South Africa,4,Aiden Markram,out,25,32,32,1,1,78.12,42
+Afghanistan vs South Africa,South Africa,7,Andile Phehlukwayo,not out,39,37,46,1,3,105.4,42
+Afghanistan vs South Africa,Afghanistan,5,Azmatullah Omarzai,not out,97,107,173,7,3,90.65,42
+Afghanistan vs South Africa,South Africa,6,David Miller,out,24,33,35,1,1,72.72,42
+Afghanistan vs South Africa,Afghanistan,4,Hashmatullah Shahidi (c),out,2,7,5,0,0,28.57,42
+Afghanistan vs South Africa,South Africa,5,Heinrich Klaasen,out,10,13,15,1,0,76.92,42
+Afghanistan vs South Africa,Afghanistan,2,Ibrahim Zadran,out,15,30,52,3,0,50,42
+Afghanistan vs South Africa,Afghanistan,6,Ikram Alikhil †,out,12,14,16,1,1,85.71,42
+Afghanistan vs South Africa,Afghanistan,7,Mohammad Nabi,out,2,3,7,0,0,66.66,42
+Afghanistan vs South Africa,Afghanistan,10,Mujeeb Ur Rahman,out,8,5,7,0,1,160,42
+Afghanistan vs South Africa,Afghanistan,11,Naveen-ul-Haq,out,2,4,12,0,0,50,42
+Afghanistan vs South Africa,Afghanistan,9,Noor Ahmad,out,26,32,36,4,0,81.25,42
+Afghanistan vs South Africa,South Africa,1,Quinton de Kock †,out,41,47,58,2,3,87.23,42
+Afghanistan vs South Africa,Afghanistan,1,Rahmanullah Gurbaz,out,25,22,45,3,1,113.63,42
+Afghanistan vs South Africa,Afghanistan,3,Rahmat Shah,out,26,46,58,2,0,56.52,42
+Afghanistan vs South Africa,Afghanistan,8,Rashid Khan,out,14,30,42,0,0,46.66,42
+Afghanistan vs South Africa,South Africa,3,Rassie van der Dussen,not out,76,95,141,6,1,80,42
+Afghanistan vs South Africa,South Africa,2,Temba Bavuma (c),out,23,28,49,3,0,82.14,42
+Bangladesh vs Australia,Australia,2,David Warner,out,53,61,90,6,0,86.88,43
+Bangladesh vs Australia,Bangladesh,2,Litton Das,out,36,45,76,5,0,80,43
+Bangladesh vs Australia,Bangladesh,9,Mahedi Hasan,not out,2,3,4,0,0,66.66,43
+Bangladesh vs Australia,Bangladesh,5,Mahmudullah,out,32,28,34,1,3,114.28,43
+Bangladesh vs Australia,Bangladesh,7,Mehidy Hasan Miraz,out,29,20,33,4,0,145,43
+Bangladesh vs Australia,Australia,3,Mitchell Marsh,not out,177,132,177,17,9,134.09,43
+Bangladesh vs Australia,Bangladesh,6,Mushfiqur Rahim †,out,21,24,27,0,1,87.5,43
+Bangladesh vs Australia,Bangladesh,3,Najmul Hossain Shanto (c),out,45,57,59,6,0,78.94,43
+Bangladesh vs Australia,Bangladesh,8,Nasum Ahmed,out,7,11,15,0,0,63.63,43
+Bangladesh vs Australia,Australia,4,Steven Smith,not out,63,64,99,4,1,98.43,43
+Bangladesh vs Australia,Bangladesh,1,Tanzid Hasan,out,36,34,55,6,0,105.88,43
+Bangladesh vs Australia,Bangladesh,10,Taskin Ahmed,not out,0,1,2,0,0,0,43
+Bangladesh vs Australia,Bangladesh,4,Towhid Hridoy,out,74,79,121,5,2,93.67,43
+Bangladesh vs Australia,Australia,1,Travis Head,out,10,11,11,2,0,90.9,43
+England vs Pakistan,Pakistan,1,Abdullah Shafique,out,0,2,2,0,0,0,44
+England vs Pakistan,England,11,Adil Rashid,not out,0,1,1,0,0,0,44
+England vs Pakistan,Pakistan,6,Agha Salman,out,51,45,53,6,1,113.33,44
+England vs Pakistan,Pakistan,3,Babar Azam (c),out,38,45,58,6,0,84.44,44
+England vs Pakistan,England,4,Ben Stokes,out,84,76,85,11,2,110.52,44
+England vs Pakistan,England,8,Chris Woakes,not out,4,4,19,1,0,100,44
+England vs Pakistan,England,9,David Willey,out,15,5,5,2,1,300,44
+England vs Pakistan,England,1,Dawid Malan,out,31,39,61,5,0,79.48,44
+England vs Pakistan,Pakistan,2,Fakhar Zaman,out,1,9,13,0,0,11.11,44
+England vs Pakistan,England,10,Gus Atkinson,out,0,1,1,0,0,0,44
+England vs Pakistan,England,6,Harry Brook,out,30,17,24,2,2,176.47,44
+England vs Pakistan,Pakistan,7,Iftikhar Ahmed,out,3,5,8,0,0,60,44
+England vs Pakistan,England,3,Joe Root,out,60,72,115,4,0,83.33,44
+England vs Pakistan,England,2,Jonny Bairstow,out,59,61,81,7,1,96.72,44
+England vs Pakistan,England,5,Jos Buttler (c)†,out,27,18,39,3,1,150,44
+England vs Pakistan,England,7,Moeen Ali,out,8,6,10,0,1,133.33,44
+England vs Pakistan,Pakistan,4,Mohammad Rizwan †,out,36,51,78,2,0,70.58,44
+England vs Pakistan,Pakistan,10,Mohammad Wasim,not out,16,14,33,2,1,114.28,44
+England vs Pakistan,Pakistan,5,Saud Shakeel,out,29,37,52,4,0,78.37,44
+England vs Pakistan,Pakistan,8,Shadab Khan,out,4,7,4,1,0,57.14,44
+England vs Pakistan,Pakistan,9,Shaheen Shah Afridi,out,25,23,23,3,1,108.69,44
+India vs Netherlands,Netherlands,10,Aryan Dutt,out,5,11,9,0,0,45.45,45
+India vs Netherlands,Netherlands,6,Bas de Leede,out,12,21,23,1,0,57.14,45
+India vs Netherlands,Netherlands,3,Colin Ackermann,out,35,32,46,6,0,109.37,45
+India vs Netherlands,India,5,KL Rahul †,out,102,64,98,11,4,159.37,45
+India vs Netherlands,Netherlands,8,Logan van Beek,out,16,15,20,2,0,106.66,45
+India vs Netherlands,Netherlands,2,Max O'Dowd,out,30,42,68,3,1,71.42,45
+India vs Netherlands,Netherlands,9,Roelof van der Merwe,out,16,8,5,1,2,200,45
+India vs Netherlands,India,1,Rohit Sharma (c),out,61,54,74,8,2,112.96,45
+India vs Netherlands,Netherlands,5,Scott Edwards (c)†,out,17,30,27,1,0,56.66,45
+India vs Netherlands,India,4,Shreyas Iyer,not out,128,94,145,10,5,136.17,45
+India vs Netherlands,India,2,Shubman Gill,out,51,32,49,3,4,159.37,45
+India vs Netherlands,India,6,Suryakumar Yadav,not out,2,1,1,0,0,200,45
+India vs Netherlands,Netherlands,4,Sybrand Engelbrecht,out,45,80,87,4,0,56.25,45
+India vs Netherlands,Netherlands,7,Teja Nidamanuru,out,54,39,65,1,6,138.46,45
+India vs Netherlands,India,3,Virat Kohli,out,51,56,69,5,1,91.07,45
+India vs Netherlands,Netherlands,1,Wesley Barresi,out,4,5,8,0,0,80,45
+India vs New Zealand,New Zealand,4,Daryl Mitchell,out,134,119,180,9,7,112.6,46
+India vs New Zealand,New Zealand,1,Devon Conway,out,13,15,26,3,0,86.66,46
+India vs New Zealand,New Zealand,6,Glenn Phillips,out,41,33,58,4,2,124.24,46
+India vs New Zealand,New Zealand,3,Kane Williamson (c),out,69,73,116,8,1,94.52,46
+India vs New Zealand,India,5,KL Rahul †,not out,39,20,29,5,2,195,46
+India vs New Zealand,New Zealand,7,Mark Chapman,out,2,5,5,0,0,40,46
+India vs New Zealand,New Zealand,8,Mitchell Santner,out,9,10,20,0,0,90,46
+India vs New Zealand,New Zealand,2,Rachin Ravindra,out,13,22,39,3,0,59.09,46
+India vs New Zealand,India,1,Rohit Sharma (c),out,47,29,40,4,4,162.06,46
+India vs New Zealand,India,4,Shreyas Iyer,out,105,70,114,4,8,150,46
+India vs New Zealand,India,2,Shubman Gill,not out,80,66,116,8,3,121.21,46
+India vs New Zealand,India,6,Suryakumar Yadav,out,1,2,2,0,0,50,46
+India vs New Zealand,New Zealand,9,Tim Southee,out,9,10,14,1,0,90,46
+India vs New Zealand,New Zealand,5,Tom Latham †,out,0,2,1,0,0,0,46
+India vs New Zealand,New Zealand,10,Trent Boult,not out,2,2,5,0,0,100,46
+India vs New Zealand,India,3,Virat Kohli,out,117,113,149,9,2,103.53,46
+South Africa vs Australia,South Africa,4,Aiden Markram,out,10,20,24,2,0,50,47
+South Africa vs Australia,South Africa,6,David Miller,out,101,116,138,8,5,87.06,47
+South Africa vs Australia,Australia,2,David Warner,out,29,18,29,1,4,161.11,47
+South Africa vs Australia,South Africa,8,Gerald Coetzee,out,19,39,42,2,0,48.71,47
+South Africa vs Australia,Australia,6,Glenn Maxwell,out,1,5,8,0,0,20,47
+South Africa vs Australia,South Africa,5,Heinrich Klaasen,out,47,48,76,4,2,97.91,47
+South Africa vs Australia,Australia,7,Josh Inglis †,out,28,49,66,3,0,57.14,47
+South Africa vs Australia,South Africa,10,Kagiso Rabada,out,10,12,18,0,1,83.33,47
+South Africa vs Australia,South Africa,9,Keshav Maharaj,out,4,8,13,0,0,50,47
+South Africa vs Australia,South Africa,7,Marco Jansen,out,0,1,1,0,0,0,47
+South Africa vs Australia,Australia,5,Marnus Labuschagne,out,18,31,28,2,0,58.06,47
+South Africa vs Australia,Australia,3,Mitchell Marsh,out,0,6,5,0,0,0,47
+South Africa vs Australia,Australia,8,Mitchell Starc,not out,16,38,61,2,0,42.1,47
+South Africa vs Australia,Australia,9,Pat Cummins (c),not out,14,29,32,2,0,48.27,47
+South Africa vs Australia,South Africa,1,Quinton de Kock †,out,3,14,27,0,0,21.42,47
+South Africa vs Australia,South Africa,3,Rassie van der Dussen,out,6,31,53,0,0,19.35,47
+South Africa vs Australia,Australia,4,Steven Smith,out,30,62,102,2,0,48.38,47
+South Africa vs Australia,South Africa,11,Tabraiz Shamsi,not out,1,5,11,0,0,20,47
+South Africa vs Australia,South Africa,2,Temba Bavuma (c),out,0,4,5,0,0,0,47
+South Africa vs Australia,Australia,1,Travis Head,out,62,48,62,9,2,129.16,47
+India vs Australia,Australia,1,David Warner,out,7,3,6,1,0,233.33,48
+India vs Australia,Australia,6,Glenn Maxwell,not out,2,1,1,0,0,200,48
+India vs Australia,India,9,Jasprit Bumrah,out,1,3,5,0,0,33.33,48
+India vs Australia,India,5,KL Rahul †,out,66,107,133,1,0,61.68,48
+India vs Australia,India,10,Kuldeep Yadav,out,10,18,28,0,0,55.55,48
+India vs Australia,Australia,5,Marnus Labuschagne,not out,58,110,133,4,0,52.72,48
+India vs Australia,Australia,3,Mitchell Marsh,out,15,15,15,1,1,100,48
+India vs Australia,India,8,Mohammed Shami,out,6,10,9,1,0,60,48
+India vs Australia,India,11,Mohammed Siraj,not out,9,8,13,1,0,112.5,48
+India vs Australia,India,6,Ravindra Jadeja,out,9,22,33,0,0,40.9,48
+India vs Australia,India,1,Rohit Sharma (c),out,47,31,44,4,3,151.61,48
+India vs Australia,India,4,Shreyas Iyer,out,4,3,3,1,0,133.33,48
+India vs Australia,India,2,Shubman Gill,out,4,7,21,0,0,57.14,48
+India vs Australia,Australia,4,Steven Smith,out,4,9,11,1,0,44.44,48
+India vs Australia,India,7,Suryakumar Yadav,out,18,28,57,1,0,64.28,48
+India vs Australia,Australia,2,Travis Head,out,137,120,166,15,4,114.16,48
+India vs Australia,India,3,Virat Kohli,out,54,63,99,4,0,85.71,48

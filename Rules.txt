@@ -1,0 +1,44 @@
+The whole Super-XI can be visualised into 5 categories , namely:
+
+1) Opener's (Batting Pos- 1,2) - They open the batting innings and form the base of every batting innings.
+
+2) Middle-Order (Batting Pos- 3,4,5) - They act as a buffer between the power-hitters and the top-order often giving the innings structure.
+
+3) Batting All-Rounder (Batting Pos- 6) - They are capable of both bowling and batting , however are tilted towards batting. Main aim is to have high hitting power especially in the last couple of overs in an innings. 
+
+4) Bowling All-Rounder (Batting Pos- 7) - They are capable of both bowling and batting , however are tilted towards bowling. Main aim is to have a consistent bowling record as they will be used as a regular bowler while also being capable with the bat. 
+
+5) Bowlers (Batting Pos- 8,9,10,11) - They are mainly categorised by high number of wickets and low economy scores as their aim is to slow the batting as much as possibile.
+
+6) Wicket-keeper - This will fall into either cateogry 1 or 2. 
+
+
+Rules:
+
+
+-> Total Innings batted/bowled represents experience and consistency. Greater the number implies more consistent / experienced is the player. Hence a player with a higher number 
+   of innings is preferred.
+
+
+-> For added flexibility , we have considered (+/- 1) flexibility for each batting spot. Example - For the fifth spot , a person batting at 4,5,6 is eligibile as well. This is so              that we don't leave out talented players. However this does not apply to the openers due to the difference in game dynamics the openers face.
+ 
+
+-> Many a times we have considered other players who are not the best among their category , so as to output a better squad. Example - Instead of having 3 spin bowlers and 2 pacers , it's better to go with 3 pacers and 2 spinners. For this to happen it may not be necessary to select the best player. Hence the bowlers are picked once the all-rounders are picked and due to this is dependent on the bowling role of all-rounders. 
+
+-> All the filters applied have been applied after taking the average of all the stats of all the players in that role and applying trail and error.
+
+-> In-case the primary metric is in a comparable range , then the secondary metrics are evaluated and are given more preference as well. Especially applies to All-Rounders.
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+

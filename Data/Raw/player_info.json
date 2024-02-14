@@ -1,0 +1,1305 @@
+[
+        {
+            "Name": "Kane Williamson",
+            "Age": "33y 34d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Tom Latham",
+            "Age": "31y 162d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Wicketkeeper Batter",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Devon Conway",
+            "Age": "32y 65d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Wicketkeeper Batter",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Will Young",
+            "Age": "30y 293d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Mark Chapman",
+            "Age": "29y 76d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Allrounder",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Daryl Mitchell",
+            "Age": "32y 114d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Batting Allrounder",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "James Neesham",
+            "Age": "32y 359d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Batting Allrounder",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Glenn Phillips",
+            "Age": "26y 279d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Rachin Ravindra",
+            "Age": "23y 297d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Batting Allrounder",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Mitchell Santner",
+            "Age": "31y 218d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowling Allrounder",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Trent Boult",
+            "Age": "34y 51d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Fast medium",
+            "Position": "Bowler",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Lockie Ferguson",
+            "Age": "32y 90d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Kyle Jamieson",
+            "Age": "28y 255d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Ish Sodhi",
+            "Age": "30y 315d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Bowler",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Tim Southee",
+            "Age": "34y 274d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "New Zealand"
+        },
+        {
+            "Name": "Matt Henry",
+            "Age": "31y 271d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "New Zealand"
+        }
+    ,
+    
+        {
+            "Name": "Hashmatullah Shahidi",
+            "Age": "28y 313d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Ibrahim Zadran",
+            "Age": "21y 275d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Opening Batter",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Ikram Alikhil",
+            "Age": "22y 349d",
+            "Batting": "Left hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Najibullah Zadran",
+            "Age": "30y 197d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Middle order Batter",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Rahmanullah Gurbaz",
+            "Age": "21y 289d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Riaz Hassan",
+            "Age": "20y 310d",
+            "Batting": "Right hand Bat",
+            "Position": "Batter",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Azmatullah Omarzai",
+            "Age": "23y 173d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Allrounder",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Mohammad Nabi",
+            "Age": "38y 255d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Rahmat Shah",
+            "Age": "30y 69d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak Googly",
+            "Position": "Allrounder",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Rashid Khan",
+            "Age": "24y 358d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak Googly",
+            "Position": "Bowling Allrounder",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Abdul Rahman",
+            "Age": "21y 295d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Fazalhaq Farooqi",
+            "Age": "22y 356d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Mujeeb Ur Rahman",
+            "Age": "22y 169d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Bowler",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Naveen-ul-Haq",
+            "Age": "23y 355d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "Afghanistan"
+        },
+        {
+            "Name": "Noor Ahmad",
+            "Age": "18y 253d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Wrist spin",
+            "Position": "Bowler",
+            "Team": "Afghanistan"
+        }
+    ,
+    
+        {
+            "Name": "Alex Carey",
+            "Age": "32y 10d",
+            "Batting": "Left hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Travis Head",
+            "Age": "29y 251d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Middle order Batter",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Josh Inglis",
+            "Age": "28y 186d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Marnus Labuschagne",
+            "Age": "29y 76d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Batter",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Steven Smith",
+            "Age": "34y 96d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak Googly",
+            "Position": "Top order Batter",
+            "Team": "Australia"
+        },
+        {
+            "Name": "David Warner",
+            "Age": "36y 314d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Opening Batter",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Sean Abbott",
+            "Age": "31y 190d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowling Allrounder",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Cameron Green",
+            "Age": "24y 95d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Batting Allrounder",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Mitchell Marsh",
+            "Age": "31y 321d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Allrounder",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Glenn Maxwell",
+            "Age": "34y 327d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Batting Allrounder",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Marcus Stoinis",
+            "Age": "34y 21d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Batting Allrounder",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Pat Cummins",
+            "Age": "30y 121d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Josh Hazlewood",
+            "Age": "32y 241d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Mitchell Starc",
+            "Age": "33y 219d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Fast",
+            "Position": "Bowler",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Adam Zampa",
+            "Age": "31y 159d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak Googly",
+            "Position": "Bowler",
+            "Team": "Australia"
+        },
+        {
+            "Name": "Ashton Agar",
+            "Age": "29y 327d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowler",
+            "Team": "Australia"
+        }
+    ,
+    
+        {
+            "Name": "Najmul Hossain Shanto",
+            "Age": "25y 32d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Anamul Haque",
+            "Age": "30y 284d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Litton Das",
+            "Age": "28y 348d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Mushfiqur Rahim",
+            "Age": "36y 140d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Tanzid Hasan",
+            "Age": "22y 299d",
+            "Batting": "Left hand Bat",
+            "Position": "Opening Batter",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Towhid Hridoy",
+            "Age": "22y 296d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Mahedi Hasan",
+            "Age": "28y 288d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Mahmudullah",
+            "Age": "37y 234d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Mehidy Hasan Miraz",
+            "Age": "25y 336d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Shakib Al Hasan",
+            "Age": "36y 186d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Allrounder",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Hasan Mahmud",
+            "Age": "23y 349d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Mustafizur Rahman",
+            "Age": "28y 20d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Nasum Ahmed",
+            "Age": "28y 295d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowler",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Shoriful Islam",
+            "Age": "22y 115d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Medium fast",
+            "Position": "Bowler",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Tanzim Hasan Sakib",
+            "Age": "20y 341d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Bowler",
+            "Team": "Bangladesh"
+        },
+        {
+            "Name": "Taskin Ahmed",
+            "Age": "28y 176d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "Bangladesh"
+        }
+    ,
+    
+        {
+            "Name": "Jos Buttler",
+            "Age": "32y 342d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "England"
+        },
+        {
+            "Name": "Jonny Bairstow",
+            "Age": "33y 324d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Wicketkeeper Batter",
+            "Team": "England"
+        },
+        {
+            "Name": "Harry Brook",
+            "Age": "24y 175d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Batter",
+            "Team": "England"
+        },
+        {
+            "Name": "Dawid Malan",
+            "Age": "35y 347d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Top order Batter",
+            "Team": "England"
+        },
+        {
+            "Name": "Joe Root",
+            "Age": "32y 229d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak, Legbreak",
+            "Position": "Top order Batter",
+            "Team": "England"
+        },
+        {
+            "Name": "Jason Roy",
+            "Age": "33y 26d",
+            "Batting": "Right hand Bat",
+            "Position": "Opening Batter",
+            "Team": "England"
+        },
+        {
+            "Name": "Moeen Ali",
+            "Age": "36y 59d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Batting Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "Brydon Carse",
+            "Age": "28y 16d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowling Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "Sam Curran",
+            "Age": "25y 74d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Medium fast",
+            "Position": "Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "Liam Livingstone",
+            "Age": "30y 12d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak, Legbreak",
+            "Position": "Batting Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "Ben Stokes",
+            "Age": "32y 73d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "David Willey",
+            "Age": "33y 169d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Fast medium",
+            "Position": "Bowling Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "Chris Woakes",
+            "Age": "34y 167d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Allrounder",
+            "Team": "England"
+        },
+        {
+            "Name": "Gus Atkinson",
+            "Age": "25y 209d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "England"
+        },
+        {
+            "Name": "Adil Rashid",
+            "Age": "35y 180d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Bowler",
+            "Team": "England"
+        },
+        {
+            "Name": "Mark Wood",
+            "Age": "33y 217d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "England"
+        },
+        {
+            "Name": "Reece Topley",
+            "Age": "29y 176d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Fast medium",
+            "Position": "Bowler",
+            "Team": "England"
+        }
+    ,
+    
+        {
+            "Name": "Rohit Sharma",
+            "Age": "36y 128d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "Ishan Kishan",
+            "Age": "25y 49d",
+            "Batting": "Left hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "Shreyas Iyer",
+            "Age": "28y 273d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak, Legbreak Googly",
+            "Position": "Top order Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "Virat Kohli",
+            "Age": "34y 304d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Top order Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "KL Rahul",
+            "Age": "31y 140d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "Shubman Gill",
+            "Age": "23y 362d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Opening Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "Suryakumar Yadav",
+            "Age": "32y 356d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium, Right arm Offbreak",
+            "Position": "Batter",
+            "Team": "India"
+        },
+        {
+            "Name": "Ravichandran Ashwin",
+            "Age": "36y 353d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Bowling Allrounder",
+            "Team": "India"
+        },
+        {
+            "Name": "Ravindra Jadeja",
+            "Age": "34y 273d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Allrounder",
+            "Team": "India"
+        },
+        {
+            "Name": "Hardik Pandya",
+            "Age": "29y 329d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Allrounder",
+            "Team": "India"
+        },
+        {
+            "Name": "Axar Patel",
+            "Age": "29y 228d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowling Allrounder",
+            "Team": "India"
+        },
+        {
+            "Name": "Jasprit Bumrah",
+            "Age": "29y 273d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "India"
+        },
+        {
+            "Name": "Kuldeep Yadav",
+            "Age": "28y 265d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Wrist spin",
+            "Position": "Bowler",
+            "Team": "India"
+        },
+        {
+            "Name": "Mohammed Shami",
+            "Age": "33y 2d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "India"
+        },
+        {
+            "Name": "Mohammed Siraj",
+            "Age": "29y 176d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "India"
+        },
+        {
+            "Name": "Prasidh Krishna",
+            "Age": "27y 198d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "India"
+        },
+        {
+            "Name": "Shardul Thakur",
+            "Age": "31y 324d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Bowler",
+            "Team": "India"
+        }
+    ,
+    
+        {
+            "Name": "Scott Edwards",
+            "Age": "27y 15d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Wesley Barresi",
+            "Age": "39y 127d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Batter",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Noah Croes",
+            "Age": "23y 268d",
+            "Batting": "Right hand Bat",
+            "Position": "Batter",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Max O'Dowd",
+            "Age": "29y 187d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Opening Batter",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Vikramjit Singh",
+            "Age": "20y 241d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Opening Batter",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Colin Ackermann",
+            "Age": "32y 156d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Batting Allrounder",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Bas de Leede",
+            "Age": "23y 296d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Batting Allrounder",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Sybrand Engelbrecht",
+            "Age": "34y 357d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Teja Nidamanuru",
+            "Age": "29y 16d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Saqib Zulfiqar",
+            "Age": "26y 163d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Bowling Allrounder",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Roelof van der Merwe",
+            "Age": "38y 250d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowling Allrounder",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Aryan Dutt",
+            "Age": "20y 118d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Bowler",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Shariz Ahmad",
+            "Age": "20y 139d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Legbreak Googly",
+            "Position": "Bowler",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Logan van Beek",
+            "Age": "33y ",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Paul van Meekeren",
+            "Age": "30y 235d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Netherlands"
+        },
+        {
+            "Name": "Ryan Klein",
+            "Age": "26y 84d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "Netherlands"
+        }
+    ,
+    
+        {
+            "Name": "Babar Azam",
+            "Age": "28y 342d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Abdullah Shafique",
+            "Age": "23y 306d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Top order Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Fakhar Zaman",
+            "Age": "33y 165d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Opening Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Iftikhar Ahmed",
+            "Age": "33y 19d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Middle order Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Imam-ul-Haq",
+            "Age": "27y 274d",
+            "Batting": "Left hand Bat",
+            "Position": "Top order Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Mohammad Rizwan",
+            "Age": "31y 113d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Saud Shakeel",
+            "Age": "28y 17d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Slow",
+            "Position": "Middle order Batter",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Agha Salman",
+            "Age": "29y 303d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Mohammad Nawaz",
+            "Age": "29y 185d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Allrounder",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Mohammad Wasim",
+            "Age": "22y 28d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowling Allrounder",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Shadab Khan",
+            "Age": "24y 353d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Allrounder",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Haris Rauf",
+            "Age": "29y 319d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Hasan Ali",
+            "Age": "29y 82d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Shaheen Shah Afridi",
+            "Age": "23y 169d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Left arm Fast",
+            "Position": "Bowler",
+            "Team": "Pakistan"
+        },
+        {
+            "Name": "Usama Mir",
+            "Age": "27y 273d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Bowler",
+            "Team": "Pakistan"
+        }
+    ,
+    
+        {
+            "Name": "Temba Bavuma",
+            "Age": "33y 111d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Middle order Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Quinton de Kock",
+            "Age": "30y 262d",
+            "Batting": "Left hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Reeza Hendricks",
+            "Age": "34y 22d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Opening Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Heinrich Klaasen",
+            "Age": "32y 37d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Wicketkeeper Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Aiden Markram",
+            "Age": "28y 336d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Opening Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "David Miller",
+            "Age": "34y 87d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Middle order Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Rassie van der Dussen",
+            "Age": "34y 210d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Top order Batter",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Marco Jansen",
+            "Age": "23y 127d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Medium fast",
+            "Position": "Bowling Allrounder",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Andile Phehlukwayo",
+            "Age": "27y 186d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowling Allrounder",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Gerald Coetzee",
+            "Age": "22y 338d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Keshav Maharaj",
+            "Age": "33y 210d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Lungi Ngidi",
+            "Age": "27y 160d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Kagiso Rabada",
+            "Age": "28y 103d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Tabraiz Shamsi",
+            "Age": "33y 199d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Wrist spin",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Lizaad Williams",
+            "Age": "29y 339d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Sisanda Magala",
+            "Age": "32y 241d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast medium",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        },
+        {
+            "Name": "Anrich Nortje",
+            "Age": "29y 293d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "South Africa"
+        }
+    ,
+    
+        {
+            "Name": "Kusal Mendis",
+            "Age": "28y 236d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dimuth Karunaratne",
+            "Age": "35y 158d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Opening Batter",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Pathum Nissanka",
+            "Age": "25y 131d",
+            "Batting": "Right hand Bat",
+            "Position": "Top order Batter",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Kusal Perera",
+            "Age": "33y 40d",
+            "Batting": "Left hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Sadeera Samarawickrama",
+            "Age": "28y 27d",
+            "Batting": "Right hand Bat",
+            "Position": "Wicketkeeper Batter",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Charith Asalanka",
+            "Age": "26y 89d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Batting Allrounder",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dhananjaya de Silva",
+            "Age": "32y 20d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Allrounder",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dushan Hemantha",
+            "Age": "29y 125d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Legbreak",
+            "Position": "Allrounder",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Chamika Karunaratne",
+            "Age": "27y 120d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowling Allrounder",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Angelo Mathews",
+            "Age": "36y 116d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Allrounder",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dasun Shanaka",
+            "Age": "32y 17d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium",
+            "Position": "Allrounder",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dushmantha Chameera",
+            "Age": "31y 258d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dilshan Madushanka",
+            "Age": "23y 8d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Left arm Fast medium",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Kasun Rajitha",
+            "Age": "30y 117d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Medium fast",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Maheesh Theekshana",
+            "Age": "23y 56d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Offbreak",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Dunith Wellalage",
+            "Age": "20y 260d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Slow Left arm Orthodox",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Lahiru Kumara",
+            "Age": "26y 225d",
+            "Batting": "Left hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        },
+        {
+            "Name": "Matheesha Pathirana",
+            "Age": "20y 282d",
+            "Batting": "Right hand Bat",
+            "Bowling": "Right arm Fast",
+            "Position": "Bowler",
+            "Team": "Sri Lanka"
+        }
+    
+    ]
