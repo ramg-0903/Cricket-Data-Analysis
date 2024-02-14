@@ -5,6 +5,8 @@ Filters -
 Role (should be a wicket-keeper)
 Innings Batted >= 7
 
+Metric Precedence: Batting Average > Balls Faced > Time Spent
+
 
 
 2) Opener's (1,2) are characterised by a very high Batting Average. The amount of balls faced and the time spent on the crease is sky high as well.
@@ -12,8 +14,10 @@ Innings Batted >= 7
 Filters - 
 
 Average >= 50
-Innings batted >=8
+Innings batted >=7
 Batting Position (1,2) 
+
+Metric Precedence: Batting Average > Balls Faced > Time Spent
 
 
 
@@ -25,8 +29,10 @@ Filters -
 
 Average >= 45
 Strike Rate >=90
-Innings batted >=8
+Innings batted >=7
 Batting Position (3,4,5,6) 
+
+Metric Precedence: Batting Average > Balls Faced > Time Spent
 
 
 
@@ -39,6 +45,8 @@ Innings batted >=7
 Innings Bowled >=4
 Batting Position (5,6,7)
 
+Metric Precedence: Strike Rate = Batting Average > Wickets = Economy
+
 
 
 5) Bowling All-Rounder's (7) will have to be the fifth bowler and hence have to be consistent with the bowl while also being fluent with the bat. This means that they should have a low economy and high number of wickets while also keeping their average and strike rate in mind. 
@@ -50,6 +58,8 @@ Innings batted >=4
 Innings Bowled >=7
 Batting Position (6,7,8) 
 
+Metric Precedence: Wickets = Economy > Strike Rate = Batting Average
+
 
 
 6) Bowlers (8,9,10,11) should have extremely good bowling stats. These include low economy , Dot-ball percentage and high number of wickets.
@@ -60,6 +70,8 @@ Economy <= 5.5
 Wickets >= 15
 Innings Bowled >=7
 Batting Position (7,8,9,10,11) 
+
+Metric Precedence: Wickets = Economy > Dot-Ball % > Balls Bowled
 
 
 
