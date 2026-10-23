@@ -9,7 +9,7 @@ Metric Precedence: Batting Average > Balls Faced > Time Spent
 
 
 
-2) Opener's (1,2) are characterised by a very high Batting Average. The amount of balls faced and the time spent on the crease is sky high as well.
+2) Openers (1,2) are characterised by a very high Batting Average. The amount of balls faced and the time spent on the crease is sky high as well.
 
 Filters - 
 
@@ -22,7 +22,7 @@ Metric Precedence: Batting Average > Balls Faced > Time Spent
 
 
 3) Middle Order(3,4,5) is extremely crucial as they act as the shoulders for the innings.
-Here Batting Average and Strike Rate are important as well similiar to the top-order.
+Here Batting Average and Strike Rate are important as well similar to the top-order.
 
 
 Filters - 
@@ -36,7 +36,7 @@ Metric Precedence: Batting Average > Balls Faced > Time Spent
 
 
 
-4) Batting All-Rounder's (6) have extremely high hitting power while also being trained with the ball. This means that they are characterised by a high strike rate and boundary percentage while also keeping in mind their bowling stats.
+4) Batting All-Rounders (6) have extremely high hitting power while also being trained with the ball. This means that they are characterised by a high strike rate and boundary percentage while also keeping in mind their bowling stats.
 
 Filters - 
 
@@ -49,7 +49,7 @@ Metric Precedence: Strike Rate = Batting Average > Wickets = Economy
 
 
 
-5) Bowling All-Rounder's (7) will have to be the fifth bowler and hence have to be consistent with the bowl while also being fluent with the bat. This means that they should have a low economy and high number of wickets while also keeping their average and strike rate in mind. 
+5) Bowling All-Rounders (7) will have to be the fifth bowler and hence have to be consistent with the bowl while also being fluent with the bat. This means that they should have a low economy and high number of wickets while also keeping their average and strike rate in mind. 
 
 Filters - 
 

@@ -1,7 +1,7 @@
 Top-Order
 
 1) Rohit Sharma (C)
-2) Quinton De Kock (Wk)
+2) Quinton de Kock (Wk)
 3) Virat Kohli
 
 Middle-Order
@@ -12,11 +12,11 @@ Middle-Order
 All-Rounders
 
 6) Glenn Maxwell
-7) Ravindra Jadega
+7) Ravindra Jadeja
 
 Bowlers 
 
-8) Mohammad Shami
+8) Mohammed Shami
 9) Jasprit Bumrah
 10) Josh Hazlewood
 11) Adam Zampa

@@ -1,0 +1,20 @@
+# Personal notes — not part of the project
+RESUME_POINTERS.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temp files
+~$*.pbix
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
